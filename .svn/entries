@@ -117,13 +117,6 @@ file
 
 add
 
-installation
-dir
-
-
-
-add
-
 cache
 dir
 
@@ -154,6 +147,10 @@ add
 
 svn
 dir
+
+
+
+delete
 
 includes
 dir
@@ -179,13 +176,6 @@ add
 .htaccess
 file
 0
-
-
-add
-
-img
-dir
-
 
 
 add
@@ -221,13 +211,6 @@ add
 css
 dir
 
-
-
-add
-
-descompactar.php
-file
-0
 
 
 add
