@@ -1,0 +1,149 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/libraries/phputf8
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+strspn.php
+file
+
+
+
+add
+
+LICENSE
+file
+
+
+
+add
+
+strcspn.php
+file
+
+
+
+add
+
+mbstring
+dir
+
+
+
+add
+
+native
+dir
+
+
+
+add
+
+strcasecmp.php
+file
+
+
+
+add
+
+README
+file
+
+
+
+add
+
+stristr.php
+file
+
+
+
+add
+
+utils
+dir
+
+
+
+add
+
+trim.php
+file
+
+
+
+add
+
+str_ireplace.php
+file
+
+
+
+add
+
+substr_replace.php
+file
+
+
+
+add
+
+TODO.tsk
+file
+
+
+
+add
+
+ucfirst.php
+file
+
+
+
+add
+
+str_split.php
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+strrev.php
+file
+
+
+
+add
+
+utf8.php
+file
+
+
+
+add
+
+ucwords.php
+file
+
+
+
+add
+

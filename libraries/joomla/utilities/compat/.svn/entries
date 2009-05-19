@@ -1,0 +1,44 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/libraries/joomla/utilities/compat
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+compat.php
+file
+
+
+
+add
+
+php50x.php
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+php51x.php
+file
+
+
+
+add
+

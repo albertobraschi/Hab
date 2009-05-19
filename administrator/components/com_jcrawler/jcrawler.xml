@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="component" version="1.5.0">
+	<name>JCrawler</name>
+	<creationDate>20/4/2009</creationDate>
+	<author>Patrick Winkler</author>
+	<copyright>Pixelschieber 2009</copyright>
+	<authorEmail>patrick@support-masters.ch</authorEmail>
+	<authorUrl>http://www.pixelschieber.ch/jcrawler</authorUrl>
+	<version>1.7 Beta</version>
+	
+	<description>Crawls all URLs of your Joomla-Site and generates a Sitemap XML file.</description>
+
+	<administration>
+		<menu img="components/com_jcrawler/images/crawl.gif">JCrawler</menu>
+	<files folder="com_jcrawler">
+		<filename>index.html</filename>
+		<filename>admin.jcrawler.html.php</filename>
+		<filename>admin.jcrawler.php</filename>
+		<filename>toolbar.jcrawler.html.php</filename>
+		<filename>toolbar.jcrawler.php</filename>
+		<filename>sitemap.xsl</filename>
+		<filename>config.xml</filename>
+	</files>
+	<images folder="com_jcrawler">
+		<filename>images/crawl.gif</filename>
+		<filename>images/crawl_big.gif</filename>
+		<filename>images/activity.gif</filename>
+	</images>	
+	</administration>
+</install>

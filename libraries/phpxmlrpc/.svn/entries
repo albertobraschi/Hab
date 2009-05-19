@@ -1,0 +1,72 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/libraries/phpxmlrpc
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+compat
+dir
+
+
+
+add
+
+Changelog
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+xmlrpc.php
+file
+
+
+
+add
+
+NEWS
+file
+
+
+
+add
+
+README
+file
+
+
+
+add
+
+xmlrpc_wrappers.php
+file
+
+
+
+add
+
+xmlrpcs.php
+file
+
+
+
+add
+

@@ -1,0 +1,131 @@
+<jtmpl:comment>
+@version	$Id: migration.html 6450 2007-02-01 16:36:11Z hackwar $
+@package	Joomla
+@subpackage	Installation
+@copyright	Copyright (C) 2005 - 2008 Open Source Matters. All rights reserved.
+@license	GNU/GPL
+</jtmpl:comment>
+<script language="JavaScript" type="text/javascript">
+<!--
+	function validateForm( frm, task ) {
+		var valid = document.formvalidator.isValid(frm);
+		submitForm( frm, task );
+	}
+//-->
+</script>
+<jtmpl:tmpl name="autobuttons">
+<script language="JavaScript" type="text/javascript">
+<!--
+	function autoNext()
+	{
+		validateForm( document.getElementById('adminForm'), '{NEXT}' );
+	}
+//-->
+</script>						
+</jtmpl:tmpl>
+
+<div id="right">
+	<div id="rightpad">
+		<div id="step">
+			<div class="t">
+		<div class="t">
+			<div class="t"></div>
+		</div>
+		</div>
+		<div class="m">
+				<div class="far-right">
+					<jtmpl:tmpl name="buttons" type="condition" conditionvar="direction">
+						<jtmpl:sub condition="ltr">
+							<div class="button1-right"><div class="prev"><a onclick="submitForm( backForm, '{PREVIOUS}' );" alt="<jtmpl:translate escape="yes">Previous</jtmpl:translate>"><jtmpl:translate escape="yes">Previous</jtmpl:translate></a></div></div>
+							<div class="button1-left"><div class="next"><a onclick="validateForm( adminForm, '{NEXT}' );" alt="<jtmpl:translate escape="yes">Next</jtmpl:translate>"><jtmpl:translate escape="yes">Next</jtmpl:translate></a></div></div>
+						</jtmpl:sub>
+						<jtmpl:sub condition="rtl">
+							<div class="button1-right"><div class="prev"><a onclick="validateForm( adminForm, '{NEXT}' );" alt="<jtmpl:translate escape="yes">Next</jtmpl:translate>"><jtmpl:translate escape="yes">Next</jtmpl:translate></a></div></div>
+							<div class="button1-left"><div class="next"><a onclick="submitForm( backForm, '{PREVIOUS}' );" alt="<jtmpl:translate escape="yes">Previous</jtmpl:translate>"><jtmpl:translate escape="yes">Previous</jtmpl:translate></a></div></div>
+						</jtmpl:sub>
+					</jtmpl:tmpl>
+				</div>
+				<span class="step"><jtmpl:translate>EXTRA DATABASE RESTORATION</jtmpl:translate></span>
+			</div>
+		<div class="b">
+		<div class="b">
+			<div class="b"></div>
+		</div>
+		</div>
+	</div>
+
+	<div id="installer">
+			<div class="t">
+		<div class="t">
+			<div class="t"></div>
+		</div>
+		</div>
+		<div class="m">
+
+				<h2><jtmpl:translate>Restoration Output</jtmpl:translate>:</h2>
+
+				<iframe src="restoration.html" name="restorationtarget" class="license" frameborder="0" marginwidth="25" scrolling="none"></iframe>
+
+				<div class="clr"></div>
+		</div>
+		<div class="b">
+		<div class="b">
+			<div class="b"></div>
+		</div>
+		</div>
+		</div>
+	</div>
+</div>
+
+<div class="clr"></div>
+
+<!-- Variables -->
+<form action="index.php" method="post" name="adminForm" id="adminForm" class="form-validate">
+	<input type="hidden" name="task" value="dumpLoad" />
+  	<input type="hidden" name="lang" value="{VAR_LANG}" />
+	<input type="hidden" name="vars[ftpEnable]" value="0" />
+	<input type="hidden" name="vars[DBtype]" value="{VAR_DBTYPE}" />
+	<input type="hidden" name="vars[DBhostname]" value="{VAR_DBHOSTNAME}" />
+	<input type="hidden" name="vars[DBuserName]" value="{VAR_DBUSERNAME}" />
+	<input type="hidden" name="vars[DBpassword]" value="{VAR_DBPASSWORD}" />
+	<input type="hidden" name="vars[DBname]" value="{VAR_DBNAME}" />
+	<input type="hidden" name="vars[DBPrefix]" value="{VAR_DBPREFIX}" />
+	<input type="hidden" name="vars[extraDBPrefix]" value="" />
+	<input type="hidden" name="vars[extradbsection]" value="{VAR_NEXTEXTRADBSECTION}" />
+  	<input type="hidden" name="vars[auto]" value="{VAR_AUTO}" />
+</form>
+
+<!-- The backForm is used to get you back to the extra db step you were in -->
+<form action="index.php" method="post" name="backForm" id="backForm" class="form-validate">
+	<input type="hidden" name="task" value="dumpLoad" />
+  	<input type="hidden" name="lang" value="{VAR_LANG}" />
+	<input type="hidden" name="vars[ftpEnable]" value="0" />
+	<input type="hidden" name="vars[DBtype]" value="{VAR_DBTYPE}" />
+	<input type="hidden" name="vars[DBhostname]" value="{VAR_DBHOSTNAME}" />
+	<input type="hidden" name="vars[DBuserName]" value="{VAR_DBUSERNAME}" />
+	<input type="hidden" name="vars[DBpassword]" value="{VAR_DBPASSWORD}" />
+	<input type="hidden" name="vars[DBname]" value="{VAR_DBNAME}" />
+	<input type="hidden" name="vars[DBPrefix]" value="{VAR_DBPREFIX}" />
+	<input type="hidden" name="vars[extraDBPrefix]" value="" />
+	<input type="hidden" name="vars[extradbsection]" value="{VAR_EXTRADBSECTION}" />
+  	<input type="hidden" name="vars[auto]" value="{VAR_AUTO}" />
+</form>
+
+<!-- This form is used to start the restoration process  -->
+<form action="index.php" method="post" name="restoreForm" id="restoreForm" class="form-validate" target="restorationtarget">
+	<input type="hidden" name="task" value="dumpLoad" />
+	<input type="hidden" name="fn" value="{VAR_EXTRADBFILENAME}" />
+  	<input type="hidden" name="resdbtype" value="{VAR_EXTRADBTYPE}" />
+  	<input type="hidden" name="resdbhost" value="{VAR_EXTRADBHOSTNAME}" />
+  	<input type="hidden" name="resdbuser" value="{VAR_EXTRADBUSERNAME}" />
+  	<input type="hidden" name="resdbpass" value="{VAR_EXTRADBPASSWORD}" />
+  	<input type="hidden" name="resdbname" value="{VAR_EXTRADBNAME}" />
+  	<input type="hidden" name="resprefix" value="{VAR_EXTRADBPREFIX}" />
+  	<input type="hidden" name="lang" value="{VAR_LANG}" />
+  	<input type="hidden" name="start" value="1" />
+	<input type="hidden" name="foffset" value="0" />
+	<input type="hidden" name="totalqueries" value="0" />
+  	<input type="hidden" name="vars[auto]" value="{VAR_AUTO}" />
+</form>
+
+<script language="JavaScript" type="text/javascript">window.setTimeout('submitForm(this.document.restoreForm,"dumpLoad")',500);</script>

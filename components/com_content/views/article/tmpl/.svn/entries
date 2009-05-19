@@ -1,0 +1,65 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/components/com_content/views/article/tmpl
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+pagebreak.xml
+file
+
+
+
+add
+
+form.xml
+file
+
+
+
+add
+
+default.xml
+file
+
+
+
+add
+
+pagebreak.php
+file
+
+
+
+add
+
+form.php
+file
+
+
+
+add
+
+default.php
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+

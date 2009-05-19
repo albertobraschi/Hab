@@ -1,0 +1,51 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/modules/mod_archive
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+mod_archive.xml
+file
+
+
+
+add
+
+helper.php
+file
+
+
+
+add
+
+mod_archive.php
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+tmpl
+dir
+
+
+
+add
+

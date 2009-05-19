@@ -1,0 +1,23 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/templates/hm_yaml/plugins/ie_png_fix/language/de-DE
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+de-DE.pgl_template.ini
+file
+
+
+
+add
+

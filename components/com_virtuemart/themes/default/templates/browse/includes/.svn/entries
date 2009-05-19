@@ -1,0 +1,100 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/components/com_virtuemart/themes/default/templates/browse/includes
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+browse_orderbyform.tpl.php
+file
+
+
+
+add
+
+browse_header_keyword.tpl.php
+file
+
+
+
+add
+
+browse_orderbyfields.tpl.php
+file
+
+
+
+add
+
+browse_header_all.tpl.php
+file
+
+
+
+add
+
+browse_pagenav.tpl.php
+file
+
+
+
+add
+
+browse_listtable.tpl.php
+file
+
+
+
+add
+
+browse_header_manufacturer.tpl.php
+file
+
+
+
+add
+
+browse_header_category.tpl.php
+file
+
+
+
+add
+
+browse_layouttable.tpl.php
+file
+
+
+
+add
+
+browse_notables.tpl.php
+file
+
+
+
+add
+
+addtocart_form.tpl.php
+file
+
+
+
+add
+
+browse_searchparameter_form.tpl.php
+file
+
+
+
+add
+

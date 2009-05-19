@@ -1,0 +1,44 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/components/com_weblinks/views/weblink/tmpl
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+form.xml
+file
+
+
+
+add
+
+default.xml
+file
+
+
+
+add
+
+form.php
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+

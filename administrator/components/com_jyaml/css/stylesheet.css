@@ -1,0 +1,175 @@
+/**
+ * "YAML for Joomla Template" - http://www.jyaml.de
+ *
+ * @version         $Id: stylesheet.css 423 2008-07-01 11:44:05Z hieblmedia $
+ * @copyright       Copyright 2005-2008, Reinhard Hiebl
+ * @license         CC-A 2.0/JYAML-C(all media,html,css,js,...) and GNU/GPL(php), 
+                    - see http://www.jyaml.de/en/license-conditions.html
+ * @link            http://www.jyaml.de
+ * @package         yamljoomla
+ * @revision        $Revision: 423 $
+ * @lastmodified    $Date: 2008-07-01 13:44:05 +0200 (Di, 01. Jul 2008) $
+*/
+
+html { height: 100% !important; margin-bottom: 1px !important; } /* Scrollbars erzwingen */
+body { position:relative; }  /* Essential in IE7 for correct layout scaling ... */
+* html body { position:static }  /* ... but not for IE5.x and IE6 */
+.contentpane { position: relative } /* helpful for several problems in older IE versions*/
+body { height: 1% }
+  * html ul { position: relative; }
+  * html ol { position: relative }
+  * html dl { position: relative }
+  body ol li { display:list-item; }
+  
+.floatbox { overflow:hidden }
+* html .floatbox { width:100% }
+
+fieldset {margin:0; zoom:1; position:relative;}  
+input, select, textarea {font-size:102% !important;}
+
+#make_update { text-align:center;}
+#make_update a { padding:4px 6px; background:#f1f1f1; font-weight:bold; color:#333; border:1px solid #ccc;}
+#make_update a:hover { border:1px solid #060; }
+
+hr.seperator{border:0;margin:1em 0;padding:0;background:transparent;height:0;overflow:hidden;line-height:0;border-top:2px solid #ccc;  }
+
+#installTemplatePlugin { background:url(../images/icons/plugin_add.png) no-repeat left center; padding-left:20px; }
+
+div.designbox {padding:0;margin:0 0 15px 0;border:1px solid #ccc;}
+div.designbox div.content {padding:5px; overflow:hidden;height:1%;}
+div.designbox div.legend {font-weight:700;background:#f1f1f1;overflow:hidden;padding:5px;border-bottom:1px solid #ccc}
+
+div.ftpwarn { border:2px solid #c00; }
+div.ftpwarn div.legend { background:#ffb3b3; }
+
+div.designbox-sub {padding:0;margin:0 0 15px 0;border:1px solid #ccc;}
+div.designbox-sub div.content-sub {padding:5px; overflow:hidden;height:1%;}
+div.designbox-sub div.legend-sub {font-weight:700;background:#f1f1f1;overflow:hidden;padding:3px 4px;border-bottom:1px solid #ccc}
+
+div.yslider-design {padding:0;margin:0 0 15px 0;border:1px solid #ccc}
+div.yslider-design div.slide-title-design {cursor:pointer;background:#fafafa url(../images/icons/slide_up.png) no-repeat 5px center;font-weight:700;padding:5px 5px 5px 20px;/*border-bottom:1px solid #ccc*/}
+div.yslider-design div.slide-title-open-design {border-bottom:1px solid #ccc;background:#f1f1f1 url(../images/icons/slide_down.png) no-repeat 5px center;}
+div.yslider-design div.ycontent-design {padding:10px 10px 5px 10px;}
+div.slide-hover-design{border:1px solid #aaa}
+div.slide-hover-design div.slide-title-design{background-color:#eaeaea}
+
+div.titlelinks{ font-weight:normal}
+div.titlelinks a.modal{ font-weight:normal !important; color:#333 !important;}
+
+.createDesign { background:url(../images/icons/create_design.png) no-repeat left center; padding-left:20px; }
+
+div.yslider, div.yslider-sub, div.yslider-off {
+border:1px solid #ccc;
+margin-bottom:10px;
+overflow:hidden;
+}
+
+#yaml_def_conf { width:100%; overflow:hidden;}
+
+body div.icon-48-yamlconfig {background-image:url(../images/icon-48-yamlconfig.png); padding-left:155px;}
+#editcell{float:left;width:73%}
+#yaml_status_info{float:right;width:25%;}
+label.yaml_label_def{display:block;float:left;width:150px;border-bottom:1px solid #eee;margin-bottom:3px}
+label.yaml_label_def2{display:block;float:left;width:80px;border-bottom:1px solid #ccc;margin-bottom:3px}
+label.yaml_label_def3{display:block;float:left;width:190px;border-bottom:1px solid #eee;margin-bottom:3px}
+label.yaml_label_def4{display:block;margin-bottom:3px}
+input.clear_checkbox{margin:0 20px 0 5px}
+.layout_highlight{border-top:2px solid #ddd;border-bottom:2px solid #ddd;margin-bottom:5px;padding:3px 0}
+#xml_customs{overflow:hidden;clear:both}
+div.ownVars{margin-bottom:3px}
+.ownvars{width:150px}
+span.ownvars{display:block;float:left;width:152px}
+#yaml_def_conf h2{border-bottom:1px solid #ccc;margin-top:1.5em;margin-bottom:.25em}
+#yaml_def_conf{padding-bottom:8px}
+#yaml_def_conf .posIDs{margin-bottom:10px}
+a.addPosition_col1,a.addPosition_col2,a.addPosition_col3,a.deletePosition,a.addVar,a.deleteVar,a.deleteHeadFile,a.addHeadFileStylesheet,a.addHeadFileScript,a.toggleSyntaxEditor,a.startSyntaxEditor,a.deleteCustomXML,a.addCustomXML,a.MAINdeleteFile,a.MAINdeleteDesign,a.MAINdeleteCssFolder{cursor:pointer;color:#060;font-weight:700}
+a.deleteVar,a.deleteHeadFile,a.deleteCustomXML,a.MAINdeleteFile,a.MAINdeleteDesign,a.MAINdeleteCssFolder,a.MAINdeleteExtHtmlFolder{font-weight:400;color:#900}
+span.col_off,.off,a.deletePosition{color:#900;font-weight:700}
+span.on a,span.on a:link{color:#060;font-weight:700}
+fieldset.design-row p{margin:0}
+span.warn{color:#c00;font-weight:700}
+.editButton {background:url(../images/icons/edit.png) no-repeat 0 0; padding-left:20px;}
+#yaml_explorer{border:1px solid #369;background:#E6F7FF;padding:5px}
+#yaml_explorer div a{display:block}
+#yaml_explorer div a:hover{background:#fff}
+#yaml_explorer img.dir_icon,#yaml_explorer img.file_icon{text-align:left;vertical-align:middle;margin-right:5px}
+input.inputbox_stylesheet{width:250px}
+.head_files .slide-title-sub *{border:0;background:none;font-weight:700;margin:0;padding:0;line-height:normal;font-family:inherit;}
+.head_files .slide-title-sub span.source_path{font-weight:400}
+.head_files .explore_buttons{border-left:1px solid #ccc;border-bottom:1px solid #ccc;position:absolute;top:0;right:0;padding:3px 3px 3px 1px}
+.head_files .explore_buttons a{background:url(../images/icons/folder.png) no-repeat left center;padding-left:20px}
+a.deleteHeadFile,a.deletePosition,span.yOrder{float:right!important;margin-left:10px!important}
+#yaml_loading,#yamlOverlay{position:fixed;background:#000;top:0;bottom:0;right:0;left:0;width:100%;height:100%;z-index:70000;color:#fff;font-weight:700;text-align:center}
+* html #yaml_loading { position:absolute;}
+#yamlIframe_outer,#yamlIframe_inner{position:fixed;top:0;bottom:0;right:0;width:50%;height:100%;z-index:12000}
+#yaml_loading p{margin-top:10%;font-size:16px}
+input.readonly{background:transparent;border:0;border-bottom:1px solid #eee}
+input.readonly2{background:transparent;border:0}
+.custom_xml .desc_subitems{font-weight:700;padding-bottom:3px}
+a.deleteCustomXML{position:absolute;right:7px;bottom:3px}
+.custom_xml_parts{width:300px}
+span.label_suffix{font-style:italic;font-weight:400}
+#custom_xml_desc,#custom_xml_parts{width:350px}
+.yaml_msg{background:#eee none repeat scroll 0;border-bottom:3px solid #c00;border-top:3px solid #c00;color:#C00;padding:3px 5px;font-weight:700}
+.yaml_info{background:#fafafa;border-top:2px solid #ccc;border-bottom:2px solid #ccc;color:#666;padding:3px 5px;font-weight:700}
+span.hasTip{background-image:url(../images/icons/hasTip.png);background-repeat:no-repeat;background-position:right center;padding-right:18px;cursor:help}
+a.button{border:1px solid #ccc;background:#f1f1f1;padding:3px 5px}
+.bigform, input.bigform{font-size:2em !important;}
+input.bigform{width:90%}
+select.layout_name{width:200px}
+option.highlight{font-weight:700}
+a.plugin-row{background:#f9f9f9;margin:5px 0;margin-right:1%;overflow:hidden;width:29%;float:left;display:block;border:1px solid #fff;padding:2px 1%}
+a.plugin-row:hover{text-decoration:none;background:#f0f0f0;border:1px solid #ccc}
+.param-form{border:1px solid #ccc}
+.treeview ul{background-color:#FFF}
+.treeview,.treeview ul{list-style:none;margin:0;padding:0}
+.treeview div.hitarea{height:15px;width:15px;margin-left:-15px;float:left;cursor:pointer}
+* html div.hitarea{background:#fff;display:inline;float:none}
+.treeview li{background:url(../images/icons/tv-item.gif) 0 0 no-repeat;margin:0;padding:3px 0 3px 16px}
+.treeview a.selected{background-color:#eee}
+#treecontrol{margin:1em 0}
+.treeview .hover{color:red;cursor:pointer}
+.treeview .collapsable{background-image:url(../images/icons/tv-collapsable.gif)}
+.treeview .expandable{background-image:url(../images/icons/tv-expandable.gif)}
+.treeview .last{background-image:url(../images/icons/tv-item-last.gif)}
+.treeview .lastCollapsable{background-image:url(../images/icons/tv-collapsable-last.gif)}
+.treeview .lastExpandable{background-image:url(../images/icons/tv-expandable-last.gif)}
+.filetree li{padding:3px 0 1px 16px; line-height:normal;}
+.filetree li span{padding:0 0 2px 0; line-height:normal;}
+.filetree span.folder{padding-left:16px;display:block}
+.filetree span.file{padding-left:20px;display:block}
+.filetree span.folder{background:url(../images/icons/folder.png) 0 -2px no-repeat}
+.filetree span.file{background:url(../images/icons/file.png) 0 0 no-repeat}
+.filetree span.folder_add{background:url(../images/icons/folder_add.png) 0 -2px no-repeat}
+.filetree span.file_add{background:url(../images/icons/file_add.png) 0 0 no-repeat}
+.css-file-tree span.file{background:url(../images/icons/css.png) 0 -2px no-repeat}
+.tree-safe-css span.file{background:url(../images/icons/css.png) 0 -2px no-repeat}
+.css-file-tree span.file_add{background:url(../images/icons/css_add.png) 0 -2px no-repeat}
+.htmlindex-file-tree span.file{background:url(../images/icons/html.png) 0 -2px no-repeat}
+.htmlindex-file-tree span.file_add{background:url(../images/icons/html_add.png) 0 -2px no-repeat}
+ul.filetree li.disabled *{color:#999!important}
+ul.filetree li.disabled .hover{color:#555!important}
+ul li#unused_extensions{margin-top:10px;border-top:1px dotted #ccc}
+ul li#unused_extensions span.folder{background:url(../images/icons/folder_red.png) 0 -2px no-repeat}
+.exthtml-file-tree span.file{background:url(../images/icons/file_code.png) 0 0 no-repeat}
+ul li#unused_extensions span.file{background:url(../images/icons/file_code_red.png) 0 0 no-repeat}
+.slide-title{font-weight:700;cursor:pointer;background:url(../images/icons/slide_up.png) no-repeat 5px center;overflow:hidden;padding:5px 5px 5px 20px}
+.slide-title-sub{font-weight:700;cursor:pointer;background:url(../images/icons/slide_up.png) no-repeat 5px center;overflow:hidden;padding:2px 2px 2px 20px}
+.slide-title-sub select{border:0;background:transparent;margin:0;padding:0}
+#posDummy_col1,#posDummy_col2,#posDummy_col3,#varsDummy,#headDummy_addstylesheets,#headDummy_addscripts,#custom_xml_dummy,span.editlinktip img{display:none}
+a.setFilename,a.toggleSyntaxEditor,a.startSyntaxEditor,.slide-title *,.slide-title-sub *{cursor:pointer}
+span.col_on,.on,span.ok{color:#060}
+a.startSyntaxEditor{float:left}
+.head_files .ycontent-sub,fieldset.custom_xml{position:relative}
+div.yslider,div.yslider-sub,div.yslider-off,fieldset.conf-columns{padding:0}
+.ycontent,.ycontent-sub,.conf-columns-content,.ycontent-off{padding:5px}
+.conf-columns-title{background:#f1f1f1 url(../images/icons/conf-columns-title.png) no-repeat left center;border-bottom:1px solid #ccc;font-weight:700;overflow:hidden;padding:3px 5px 3px 27px}
+.slide-title-open,.slide-title-open-sub{background:#f1f1f1 url(../images/icons/slide_down.png) no-repeat 5px center;border-bottom:1px solid #ccc}
+fieldset.slide-hover,fieldset.slide-hover-sub{border:1px solid #aaa}
+div.slide-hover .slide-title,div.slide-hover-sub .slide-title-sub{background-color:#eaeaea}
+body .tool-tip{max-width:300px}
+.slide-title .doclink,.slide-title-sub .doclink,#addHeadCustom{float:right}
+div.design-row-outer,.ycontent,.ycontent-sub{overflow:hidden}
+
+.tree-disabled, .tree-disabled ul,.tree-disabled li { margin:0;padding:0; border:0; list-style-type:none;}
+.tree-disabled ul { padding:0 0 5px 20px;}

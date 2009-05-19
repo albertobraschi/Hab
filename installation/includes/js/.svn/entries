@@ -1,0 +1,51 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/bkp.installation/includes/js
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+xajax.js
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+installation.js
+file
+
+
+
+add
+
+xajax_uncompressed.js
+file
+
+
+
+add
+
+xajaxCompress.php
+file
+
+
+
+add
+

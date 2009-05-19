@@ -1,0 +1,100 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/libraries/openid/Auth/Yadis
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+Yadis.php
+file
+
+
+
+add
+
+Manager.php
+file
+
+
+
+add
+
+Misc.php
+file
+
+
+
+add
+
+XRIRes.php
+file
+
+
+
+add
+
+ParanoidHTTPFetcher.php
+file
+
+
+
+add
+
+ParseHTML.php
+file
+
+
+
+add
+
+XML.php
+file
+
+
+
+add
+
+XRDS.php
+file
+
+
+
+add
+
+HTTPFetcher.php
+file
+
+
+
+add
+
+XRI.php
+file
+
+
+
+add
+
+PlainHTTPFetcher.php
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+

@@ -1,0 +1,79 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/libraries/pattemplate/patTemplate/Modifier
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+QuoteLatex.php
+file
+
+
+
+add
+
+Wordwrapper.php
+file
+
+
+
+add
+
+HTML
+dir
+
+
+
+add
+
+Expression.php
+file
+
+
+
+add
+
+Surround.php
+file
+
+
+
+add
+
+Numberformat.php
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+Truncate.php
+file
+
+
+
+add
+
+Dateformat.php
+file
+
+
+
+add
+

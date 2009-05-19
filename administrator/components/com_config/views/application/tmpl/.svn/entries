@@ -1,0 +1,121 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/administrator/components/com_config/views/application/tmpl
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+config_site.php
+file
+
+
+
+add
+
+ftp.php
+file
+
+
+
+add
+
+config_database.php
+file
+
+
+
+add
+
+config_server.php
+file
+
+
+
+add
+
+navigation.php
+file
+
+
+
+add
+
+config_metadata.php
+file
+
+
+
+add
+
+config_mail.php
+file
+
+
+
+add
+
+config_session.php
+file
+
+
+
+add
+
+config_system.php
+file
+
+
+
+add
+
+config_debug.php
+file
+
+
+
+add
+
+config_seo.php
+file
+
+
+
+add
+
+config_ftp.php
+file
+
+
+
+add
+
+config_locale.php
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+config_cache.php
+file
+
+
+
+add
+

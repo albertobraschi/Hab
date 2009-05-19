@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+ * "YAML for Joomla Template" - http://www.jyaml.de
+ *
+ * @version         $Id: jyaml.xml 423 2008-07-01 11:44:05Z hieblmedia $
+ * @copyright       Copyright 2005-2008, Reinhard Hiebl
+ * @license         CC-A 2.0/JYAML-C(all media,html,css,js,...) and GNU/GPL(php), 
+                    - see http://www.jyaml.de/en/license-conditions.html
+ * @link            http://www.jyaml.de
+ * @package         yamljoomla
+ * @revision        $Revision: 423 $
+ * @lastmodified    $Date: 2008-07-01 13:44:05 +0200 (Di, 01. Jul 2008) $
+-->
+
+<!DOCTYPE install SYSTEM "http://dev.joomla.org/xml/1.5/plugin-install.dtd">
+<install type="plugin" group="system" version="1.5">
+  <name>System - JYAML Plugin</name>
+  
+  <author>Reinhard Hiebl</author>
+  <copyright>(c) Reinhard Hiebl</copyright>
+  <license>http://www.jyaml.de</license>
+  <authorEmail>service@hieblmedia.de</authorEmail>
+  <authorUrl>http://www.jyaml.de</authorUrl>
+  
+  <creationDate>27. July 2008</creationDate>
+  <version>3.0.2</version>
+  <build>080727</build>
+
+  <description>
+    <![CDATA[
+      <h3>JYAML System-Plugin:</h3>
+      <p>The JYAML System-Plugin is a YAML Joomla! Template controll extension. It is requiered for use the JYAML Templates.</p>
+      <br />
+      <p style="color:#900;">Do not forget to enable the Plugin in <a href="index.php?option=com_plugins">Extension: Plugin Manager</a></p>
+      <br />
+      <p><a target="_blank" href="http://www.jyaml.de">JYAML Project Homepage</a></p>
+      <p>&copy; Reinhard Hiebl [<a target="_blank" href="http://www.hieblmedia.de">www.hieblmedia.de</a>]</p>    
+    ]]>
+  </description>
+  
+  <languages>
+    <language tag="de-DE">language/de-DE.plg_system_jyaml.ini</language>
+    <language tag="en-GB">language/en-GB.plg_system_jyaml.ini</language>
+  </languages>
+  
+  <files>
+    <filename plugin="jyaml">jyaml.php</filename>
+    <filename>jyaml/jyaml.helper.php</filename>
+  </files>
+
+</install>

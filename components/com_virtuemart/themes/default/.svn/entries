@@ -1,0 +1,86 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/components/com_virtuemart/themes/default
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+admin.css
+file
+
+
+
+add
+
+theme.prototype.js
+file
+
+
+
+add
+
+admin.styles.css
+file
+
+
+
+add
+
+theme.xml
+file
+
+
+
+add
+
+images
+dir
+
+
+
+add
+
+theme.php
+file
+
+
+
+add
+
+theme.css
+file
+
+
+
+add
+
+theme.config.php
+file
+
+
+
+add
+
+theme.js
+file
+
+
+
+add
+
+templates
+dir
+
+
+
+add
+

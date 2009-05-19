@@ -1,0 +1,58 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/libraries/joomla/installer/adapters
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+template.php
+file
+
+
+
+add
+
+plugin.php
+file
+
+
+
+add
+
+component.php
+file
+
+
+
+add
+
+language.php
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+module.php
+file
+
+
+
+add
+

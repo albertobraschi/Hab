@@ -1,0 +1,128 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/templates/hm_yaml/html
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+pagination.php
+file
+
+
+
+add
+
+com_newsfeeds
+dir
+
+
+
+add
+
+mod_latestnews
+dir
+
+
+
+add
+
+mod_newsflash
+dir
+
+
+
+add
+
+com_contact
+dir
+
+
+
+add
+
+modules.php
+file
+
+
+
+add
+
+com_poll
+dir
+
+
+
+add
+
+mod_poll
+dir
+
+
+
+add
+
+index
+dir
+
+
+
+add
+
+mod_login
+dir
+
+
+
+add
+
+pagination_ListElements.php
+file
+
+
+
+add
+
+com_content
+dir
+
+
+
+add
+
+mod_mainmenu
+dir
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+com_user
+dir
+
+
+
+add
+
+com_weblinks
+dir
+
+
+
+add
+

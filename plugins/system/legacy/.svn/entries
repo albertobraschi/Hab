@@ -1,0 +1,212 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/plugins/system/legacy
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+pagination.php
+file
+
+
+
+add
+
+menubar.php
+file
+
+
+
+add
+
+dbtable.php
+file
+
+
+
+add
+
+classes.php
+file
+
+
+
+add
+
+installer.php
+file
+
+
+
+add
+
+mainframe.php
+file
+
+
+
+add
+
+adminmenus.php
+file
+
+
+
+add
+
+toolbar.php
+file
+
+
+
+add
+
+component.php
+file
+
+
+
+add
+
+cache.php
+file
+
+
+
+add
+
+parameters.php
+file
+
+
+
+add
+
+section.php
+file
+
+
+
+add
+
+menu.php
+file
+
+
+
+add
+
+html.php
+file
+
+
+
+add
+
+mysql.php
+file
+
+
+
+add
+
+functions.php
+file
+
+
+
+add
+
+content.php
+file
+
+
+
+add
+
+patfactory.php
+file
+
+
+
+add
+
+category.php
+file
+
+
+
+add
+
+mambothandler.php
+file
+
+
+
+add
+
+commonhtml.php
+file
+
+
+
+add
+
+mysqli.php
+file
+
+
+
+add
+
+user.php
+file
+
+
+
+add
+
+mambot.php
+file
+
+
+
+add
+
+profiler.php
+file
+
+
+
+add
+
+session.php
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+module.php
+file
+
+
+
+add
+

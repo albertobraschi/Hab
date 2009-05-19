@@ -1,0 +1,51 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/modules/mod_banners
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+helper.php
+file
+
+
+
+add
+
+mod_banners.xml
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+tmpl
+dir
+
+
+
+add
+
+mod_banners.php
+file
+
+
+
+add
+

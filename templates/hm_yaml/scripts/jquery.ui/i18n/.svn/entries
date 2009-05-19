@@ -1,0 +1,240 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/templates/hm_yaml/scripts/jquery.ui/i18n
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+ui.datepicker-zh-CN.js
+file
+
+
+
+add
+
+ui.datepicker-lt.js
+file
+
+
+
+add
+
+ui.datepicker-lv.js
+file
+
+
+
+add
+
+ui.datepicker-ca.js
+file
+
+
+
+add
+
+ui.datepicker-da.js
+file
+
+
+
+add
+
+ui.datepicker-pt-BR.js
+file
+
+
+
+add
+
+ui.datepicker-tr.js
+file
+
+
+
+add
+
+ui.datepicker-sv.js
+file
+
+
+
+add
+
+ui.datepicker-de.js
+file
+
+
+
+add
+
+ui.datepicker-bg.js
+file
+
+
+
+add
+
+ui.datepicker-ja.js
+file
+
+
+
+add
+
+ui.datepicker-he.js
+file
+
+
+
+add
+
+ui.datepicker-am.js
+file
+
+
+
+add
+
+ui.datepicker-fi.js
+file
+
+
+
+add
+
+ui.datepicker-cs.js
+file
+
+
+
+add
+
+ui.datepicker-ua.js
+file
+
+
+
+add
+
+ui.datepicker-es.js
+file
+
+
+
+add
+
+ui.datepicker-ko.js
+file
+
+
+
+add
+
+ui.datepicker-is.js
+file
+
+
+
+add
+
+ui.datepicker-no.js
+file
+
+
+
+add
+
+ui.datepicker-hu.js
+file
+
+
+
+add
+
+ui.datepicker-sk.js
+file
+
+
+
+add
+
+ui.datepicker-ro.js
+file
+
+
+
+add
+
+ui.datepicker-ru.js
+file
+
+
+
+add
+
+ui.datepicker-id.js
+file
+
+
+
+add
+
+ui.datepicker-ar.js
+file
+
+
+
+add
+
+ui.datepicker-fr.js
+file
+
+
+
+add
+
+ui.datepicker-nl.js
+file
+
+
+
+add
+
+ui.datepicker-zh-TW.js
+file
+
+
+
+add
+
+ui.datepicker-th.js
+file
+
+
+
+add
+
+ui.datepicker-pl.js
+file
+
+
+
+add
+
+ui.datepicker-it.js
+file
+
+
+
+add
+

@@ -1,0 +1,121 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/components/com_virtuemart/themes/default/templates/pages
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+shop.infopage.tpl.php
+file
+
+
+
+add
+
+shop.cart.tpl.php
+file
+
+
+
+add
+
+account.shipto.tpl.php
+file
+
+
+
+add
+
+account.index.tpl.php
+file
+
+
+
+add
+
+shop.manufacturer.tpl.php
+file
+
+
+
+add
+
+shop.waiting_list.tpl.php
+file
+
+
+
+add
+
+checkout.thankyou.tpl.php
+file
+
+
+
+add
+
+account.billing.tpl.php
+file
+
+
+
+add
+
+account.order_details.tpl.php
+file
+
+
+
+add
+
+account.shipping.tpl.php
+file
+
+
+
+add
+
+shop.waiting_thanks.tpl.php
+file
+
+
+
+add
+
+shop.savedcart.tpl.php
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+shop.ask.tpl.php
+file
+
+
+
+add
+
+account.orders.tpl.php
+file
+
+
+
+add
+

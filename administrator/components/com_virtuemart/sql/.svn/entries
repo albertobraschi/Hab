@@ -1,0 +1,156 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/administrator/components/com_virtuemart/sql
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+virtuemart.installation.joomla.sql
+file
+
+
+
+add
+
+other
+dir
+
+
+
+add
+
+UPDATE-SCRIPT_mambo-phpshop_1.2_stable-pl3_to_VirtueMart_1.0.sql
+file
+
+
+
+add
+
+UPDATE-SCRIPT_VirtueMart_1.0.3-to-VirtueMart_1.0.5.sql
+file
+
+
+
+add
+
+sql.virtuemart.php
+file
+
+
+
+add
+
+virtuemart.installation.addons.joomla.sql
+file
+
+
+
+add
+
+UPDATE-SCRIPT_VirtueMart_1.0.x-to-VirtueMart_1.0.3.sql
+file
+
+
+
+add
+
+UPDATE-SCRIPT_VM_1.0.x_to_1.1.0.sql
+file
+
+
+
+add
+
+sql.update.virtuemart-1.0.x.to.virtuemart-1.0.3.php
+file
+
+
+
+add
+
+sql.update.VM-1.0.x_to_VM-1.1.0.php
+file
+
+
+
+add
+
+virtuemart.installation.mambo.sql
+file
+
+
+
+add
+
+UPDATE-SCRIPT_com_phpshop_1.2_stable-to-1.2_stable-pl3.sql
+file
+
+
+
+add
+
+sql.sampledata.php
+file
+
+
+
+add
+
+virtuemart.installation.addons.mambo.sql
+file
+
+
+
+add
+
+sql.update.mambo-phpshop-1.2-stable-pl3.to.virtuemart.php
+file
+
+
+
+add
+
+UPDATE-SCRIPT_VM_1.1.0_beta3_to_VM_1.1.0_RC1.sql
+file
+
+
+
+add
+
+virtuemart.uninstallation.mysql.sql
+file
+
+
+
+add
+
+virtuemart.sample_data.sql
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+virtuemart.installation.addons.joomla1.5.sql
+file
+
+
+
+add
+

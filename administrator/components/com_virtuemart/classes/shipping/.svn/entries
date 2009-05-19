@@ -1,0 +1,275 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/administrator/components/com_virtuemart/classes/shipping
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+fedex.php
+file
+
+
+
+add
+
+flex.php
+file
+
+
+
+add
+
+auspost.php
+file
+
+
+
+add
+
+ups.ini
+file
+
+
+
+add
+
+shipvalue.php
+file
+
+
+
+add
+
+intershipper.ini
+file
+
+
+
+add
+
+canadapost.ini
+file
+
+
+
+add
+
+fedex
+dir
+
+
+
+add
+
+dhl.cfg.php
+file
+
+
+
+add
+
+ups.php
+file
+
+
+
+add
+
+intershipper.php
+file
+
+
+
+add
+
+canadapost.php
+file
+
+
+
+add
+
+usps.ini
+file
+
+
+
+add
+
+minixml
+dir
+
+
+
+add
+
+standard_shipping.ini
+file
+
+
+
+add
+
+fedex.cfg.php
+file
+
+
+
+add
+
+usps.php
+file
+
+
+
+add
+
+auspost.cfg.php
+file
+
+
+
+add
+
+flex.cfg.php
+file
+
+
+
+add
+
+shipvalue.cfg.php
+file
+
+
+
+add
+
+dhl.ini
+file
+
+
+
+add
+
+standard_shipping.php
+file
+
+
+
+add
+
+zone_shipping.ini
+file
+
+
+
+add
+
+ups.cfg.php
+file
+
+
+
+add
+
+no_shipping.ini
+file
+
+
+
+add
+
+dhl.php
+file
+
+
+
+add
+
+intershipper.cfg.php
+file
+
+
+
+add
+
+canadapost.cfg.php
+file
+
+
+
+add
+
+zone_shipping.php
+file
+
+
+
+add
+
+no_shipping.php
+file
+
+
+
+add
+
+free_shipping.php
+file
+
+
+
+add
+
+fedex.ini
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+flex.ini
+file
+
+
+
+add
+
+auspost.ini
+file
+
+
+
+add
+
+shipvalue.ini
+file
+
+
+
+add
+
+usps.cfg.php
+file
+
+
+
+add
+

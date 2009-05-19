@@ -1,0 +1,283 @@
+9
+
+dir
+33
+https://svn.webservidor.net/th28066/hab
+https://svn.webservidor.net/th28066
+
+
+
+2009-05-19T06:00:39.511023Z
+33
+michel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+49c60342-fc14-4165-a3ba-357d172b6b4f
+
+media
+dir
+
+
+
+add
+
+administrator
+dir
+
+
+
+add
+
+info.php
+file
+0
+
+
+add
+
+language
+dir
+
+
+
+add
+
+CREDITS.php
+file
+0
+
+
+add
+
+components
+dir
+
+
+
+add
+
+LICENSES.php
+file
+0
+
+
+add
+
+INSTALL.php
+file
+0
+
+
+add
+
+configuration.php
+file
+0
+
+
+add
+
+favicon.ico
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+configuration.php-dist
+file
+0
+
+
+add
+
+COPYRIGHT.php
+file
+0
+
+
+add
+
+installation
+dir
+
+
+
+add
+
+cache
+dir
+
+
+
+add
+
+logs
+dir
+
+
+
+add
+
+xmlrpc
+dir
+
+
+
+add
+
+images
+dir
+
+
+
+add
+
+svn
+dir
+
+includes
+dir
+
+
+
+add
+
+modules
+dir
+
+
+
+add
+
+LICENSE.php
+file
+0
+
+
+add
+
+.htaccess
+file
+0
+
+
+add
+
+img
+dir
+
+
+
+add
+
+index2.php
+file
+0
+
+
+add
+
+plugins
+dir
+
+
+
+add
+
+nbproject
+dir
+
+
+
+add
+
+robots.txt
+file
+0
+
+
+add
+
+css
+dir
+
+
+
+add
+
+descompactar.php
+file
+0
+
+
+add
+
+index.php
+file
+0
+
+
+add
+
+templates
+dir
+
+
+
+add
+
+tmp
+dir
+
+
+
+add
+
+sitemap.xml
+file
+0
+
+
+add
+
+htaccess.txt
+file
+0
+
+
+add
+
+libraries
+dir
+
+
+
+add
+
+CHANGELOG.php
+file
+0
+
+
+add
+

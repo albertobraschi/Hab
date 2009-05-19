@@ -1,0 +1,51 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/components/com_joomlapack
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+models
+dir
+
+
+
+add
+
+controllers
+dir
+
+
+
+add
+
+joomlapack.php
+file
+
+
+
+add
+
+views
+dir
+
+
+
+add
+
+index.htm
+file
+
+
+
+add
+

@@ -1,0 +1,107 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/administrator/components/com_virtuemart/classes/nusoap
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+class.soap_server.php
+file
+
+
+
+add
+
+nusoapmime.php
+file
+
+
+
+add
+
+class.wsdl.php
+file
+
+
+
+add
+
+class.soap_transport_http.php
+file
+
+
+
+add
+
+class.soap_fault.php
+file
+
+
+
+add
+
+class.wsdlcache.php
+file
+
+
+
+add
+
+class.soap_parser.php
+file
+
+
+
+add
+
+class.nusoap_base.php
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+nusoap.php
+file
+
+
+
+add
+
+class.xmlschema.php
+file
+
+
+
+add
+
+class.soapclient.php
+file
+
+
+
+add
+
+class.soap_val.php
+file
+
+
+
+add
+

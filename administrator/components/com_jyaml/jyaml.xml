@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+ * "YAML for Joomla Template" - http://www.jyaml.de
+ *
+ * @version         $Id: jyaml.xml 423 2008-07-01 11:44:05Z hieblmedia $
+ * @copyright       Copyright 2005-2008, Reinhard Hiebl
+ * @license         CC-A 2.0/JYAML-C(all media,html,css,js,...) and GNU/GPL(php), 
+                    - see http://www.jyaml.de/en/license-conditions.html
+ * @link            http://www.jyaml.de
+ * @package         yamljoomla
+ * @revision        $Revision: 423 $
+ * @lastmodified    $Date: 2008-07-01 13:44:05 +0200 (Di, 01. Jul 2008) $
+-->
+ 
+<!DOCTYPE install SYSTEM "http://dev.joomla.org/xml/1.5/component-install.dtd">
+<install type="component" version="1.5">
+  <name>JYAML</name>
+  
+  <author>Reinhard Hiebl</author>
+  <copyright>(c) Reinhard Hiebl</copyright>
+  <license>http://www.jyaml.de</license>
+  <authorEmail>service@hieblmedia.de</authorEmail>
+  <authorUrl>www.hieblmedia.de</authorUrl>
+    
+  <creationDate>27. July 2008</creationDate>
+  <version>3.0.2</version>
+  <build>080727</build>
+  
+  <description>
+    <![CDATA[
+      <img src="components/com_jyaml/images/icon-48-yamlconfig.png" alt="" width="150" height="48" />
+      <h3>JYAML Component:</h3>
+      <p>The JYAML Component is a YAML Joomla! Template configuations Extension</p>
+      <p><small>The installer insert a mod_mainmenu Module with position nav_main and topnav to show #nav_main and #topnav Navigation in JYAML Template</small></p>
+      <br />
+      <p><a target="_blank" href="http://www.jyaml.de">JYAML Project Homepage</a></p>
+      <p>&copy; Reinhard Hiebl [<a target="_blank" href="http://www.hieblmedia.de">www.hieblmedia.de</a>]</p>
+    ]]>
+  </description>
+  
+  <installfile>install.jyaml.php</installfile>  
+  <uninstallfile></uninstallfile>
+    
+  <administration>
+    <languages>
+      <language tag="de-DE">language/de-DE.com_jyaml.ini</language>
+      <language tag="en-GB">language/en-GB.com_jyaml.ini</language>
+    </languages>
+    
+    <menu img="components/com_jyaml/images/jyaml-16.png">JYAML Template</menu> 
+        
+    <files folder="admin">
+      <filename>admin.jyaml.php</filename>
+      <filename>controller.php</filename>
+      <filename>controllers/customConfig.php</filename>
+      <filename>controllers/defaultConfig.php</filename>
+      <filename>controllers/designConfig.php</filename>
+      <filename>controllers/fileControl.php</filename>
+      <filename>controllers/hmyaml.php</filename>
+      <filename>controllers/index.html</filename>
+      <filename>controllers/plugins.php</filename>
+      <filename>controllers/syntaxEditor.php</filename>
+      <filename>controllers/templateExplorer.php</filename>
+      <filename>controllers/update.php</filename>
+      <filename>css/index.html</filename>
+      <filename>css/stylesheet.css</filename>
+      <filename>helper.php</filename>
+      <filename>images/ajax-loader.gif</filename>
+      <filename>images/exp_arrow.gif</filename>
+      <filename>images/hieblmedia_logo_icon.gif</filename>
+      <filename>images/icon-48-yamlconfig.png</filename>
+      <filename>images/icons/avi.png</filename>
+      <filename>images/icons/bmp.png</filename>
+      <filename>images/icons/conf-columns-title.png</filename>
+      <filename>images/icons/create_design.png</filename>
+      <filename>images/icons/css.png</filename>
+      <filename>images/icons/css_add.png</filename>
+      <filename>images/icons/db.png</filename>
+      <filename>images/icons/dirup.png</filename>
+      <filename>images/icons/dll.png</filename>
+      <filename>images/icons/doc.png</filename>
+      <filename>images/icons/edit.png</filename>
+      <filename>images/icons/exe.png</filename>
+      <filename>images/icons/file.png</filename>
+      <filename>images/icons/file_add.png</filename>
+      <filename>images/icons/file_code.png</filename>
+      <filename>images/icons/file_code_red.png</filename>
+      <filename>images/icons/folder.png</filename>
+      <filename>images/icons/folder_add.png</filename>
+      <filename>images/icons/folder_open.png</filename>
+      <filename>images/icons/folder_red.png</filename>
+      <filename>images/icons/gif.png</filename>
+      <filename>images/icons/hasTip.png</filename>
+      <filename>images/icons/htm.png</filename>
+      <filename>images/icons/html.png</filename>
+      <filename>images/icons/html_add.png</filename>
+      <filename>images/icons/index.html</filename>
+      <filename>images/icons/inf.png</filename>
+      <filename>images/icons/ini.png</filename>
+      <filename>images/icons/jpeg.png</filename>
+      <filename>images/icons/jpg.png</filename>
+      <filename>images/icons/mov.png</filename>
+      <filename>images/icons/mp3.png</filename>
+      <filename>images/icons/mp4.png</filename>
+      <filename>images/icons/mpeg.png</filename>
+      <filename>images/icons/mpg.png</filename>
+      <filename>images/icons/odc.png</filename>
+      <filename>images/icons/odd.png</filename>
+      <filename>images/icons/odt.png</filename>
+      <filename>images/icons/ogg.png</filename>
+      <filename>images/icons/order_down.png</filename>
+      <filename>images/icons/order_up.png</filename>
+      <filename>images/icons/pdf.png</filename>
+      <filename>images/icons/php.png</filename>
+      <filename>images/icons/plugin_add.png</filename>
+      <filename>images/icons/png.png</filename>
+      <filename>images/icons/pps.png</filename>
+      <filename>images/icons/ppt.png</filename>
+      <filename>images/icons/rar.png</filename>
+      <filename>images/icons/rtf.png</filename>
+      <filename>images/icons/slide_down.png</filename>
+      <filename>images/icons/slide_up.png</filename>
+      <filename>images/icons/svg.png</filename>
+      <filename>images/icons/sxd.png</filename>
+      <filename>images/icons/tar.png</filename>
+      <filename>images/icons/tgz.png</filename>
+      <filename>images/icons/tv-collapsable-last.gif</filename>
+      <filename>images/icons/tv-collapsable.gif</filename>
+      <filename>images/icons/tv-expandable-last.gif</filename>
+      <filename>images/icons/tv-expandable.gif</filename>
+      <filename>images/icons/tv-item-last.gif</filename>
+      <filename>images/icons/tv-item.gif</filename>
+      <filename>images/icons/txt.png</filename>
+      <filename>images/icons/wma.png</filename>
+      <filename>images/icons/wmv.png</filename>
+      <filename>images/icons/xls.png</filename>
+      <filename>images/icons/xml.png</filename>
+      <filename>images/icons/zip.png</filename>
+      <filename>images/index.html</filename>
+      <filename>images/jyaml-16.png</filename>
+      <filename>index.html</filename>
+      <filename>js/component.js</filename>
+      <filename>js/index.html</filename>
+      <filename>js/jquery.cookie.js</filename>
+      <filename>js/jquery.form.js</filename>
+      <filename>js/jquery.js</filename>
+      <filename>js/jquery.treeview.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-am.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-ar.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-bg.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-ca.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-cs.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-da.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-de.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-es.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-fi.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-fr.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-he.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-hu.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-id.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-is.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-it.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-ja.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-ko.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-lt.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-lv.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-nl.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-no.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-pl.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-pt-BR.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-ro.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-ru.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-sk.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-sv.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-th.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-tr.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-ua.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-zh-CN.js</filename>
+      <filename>js/jquery.ui/i18n/ui.datepicker-zh-TW.js</filename>
+      <filename>js/jquery.ui/jquery.ui.js</filename>
+      <filename>js/jquery.yslider.js</filename>
+      <filename>tools/codepress/codepress.css</filename>
+      <filename>tools/codepress/codepress.html</filename>
+      <filename>tools/codepress/codepress.js</filename>
+      <filename>tools/codepress/engines/gecko.js</filename>
+      <filename>tools/codepress/engines/index.html</filename>
+      <filename>tools/codepress/engines/khtml.js</filename>
+      <filename>tools/codepress/engines/msie.js</filename>
+      <filename>tools/codepress/engines/older.js</filename>
+      <filename>tools/codepress/engines/opera.js</filename>
+      <filename>tools/codepress/images/Thumbs.db</filename>
+      <filename>tools/codepress/images/index.html</filename>
+      <filename>tools/codepress/images/line-numbers.png</filename>
+      <filename>tools/codepress/index.html</filename>
+      <filename>tools/codepress/languages/asp.css</filename>
+      <filename>tools/codepress/languages/asp.js</filename>
+      <filename>tools/codepress/languages/autoit.css</filename>
+      <filename>tools/codepress/languages/autoit.js</filename>
+      <filename>tools/codepress/languages/csharp.css</filename>
+      <filename>tools/codepress/languages/csharp.js</filename>
+      <filename>tools/codepress/languages/css.css</filename>
+      <filename>tools/codepress/languages/css.js</filename>
+      <filename>tools/codepress/languages/generic.css</filename>
+      <filename>tools/codepress/languages/generic.js</filename>
+      <filename>tools/codepress/languages/html.css</filename>
+      <filename>tools/codepress/languages/html.js</filename>
+      <filename>tools/codepress/languages/index.html</filename>
+      <filename>tools/codepress/languages/java.css</filename>
+      <filename>tools/codepress/languages/java.js</filename>
+      <filename>tools/codepress/languages/javascript.css</filename>
+      <filename>tools/codepress/languages/javascript.js</filename>
+      <filename>tools/codepress/languages/perl.css</filename>
+      <filename>tools/codepress/languages/perl.js</filename>
+      <filename>tools/codepress/languages/php.css</filename>
+      <filename>tools/codepress/languages/php.js</filename>
+      <filename>tools/codepress/languages/ruby.css</filename>
+      <filename>tools/codepress/languages/ruby.js</filename>
+      <filename>tools/codepress/languages/sql.css</filename>
+      <filename>tools/codepress/languages/sql.js</filename>
+      <filename>tools/codepress/languages/text.css</filename>
+      <filename>tools/codepress/languages/text.js</filename>
+      <filename>tools/codepress/languages/vbscript.css</filename>
+      <filename>tools/codepress/languages/vbscript.js</filename>
+      <filename>tools/codepress/languages/xsl.css</filename>
+      <filename>tools/codepress/languages/xsl.js</filename>
+      <filename>tools/codepress/license.txt</filename>
+      <filename>tools/index.html</filename>
+      <filename>views/hmyaml/index.html</filename>
+      <filename>views/hmyaml/tmpl/default.php</filename>
+      <filename>views/hmyaml/tmpl/default_ftp_login.php</filename>
+      <filename>views/hmyaml/tmpl/index.html</filename>
+      <filename>views/hmyaml/view.html.php</filename>
+      <filename>views/hmyamlcustomconf/index.html</filename>
+      <filename>views/hmyamlcustomconf/tmpl/default.php</filename>
+      <filename>views/hmyamlcustomconf/tmpl/index.html</filename>
+      <filename>views/hmyamlcustomconf/view.html.php</filename>
+      <filename>views/hmyamldefaultconf/index.html</filename>
+      <filename>views/hmyamldefaultconf/tmpl/default.php</filename>
+      <filename>views/hmyamldefaultconf/tmpl/index.html</filename>
+      <filename>views/hmyamldefaultconf/view.html.php</filename>
+      <filename>views/hmyamldesignconf/index.html</filename>
+      <filename>views/hmyamldesignconf/tmpl/default.php</filename>
+      <filename>views/hmyamldesignconf/tmpl/index.html</filename>
+      <filename>views/hmyamldesignconf/view.html.php</filename>
+      <filename>views/index.html</filename>
+    </files>  
+        
+  </administration>
+</install>

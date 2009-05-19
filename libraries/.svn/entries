@@ -1,0 +1,128 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/libraries
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+pattemplate
+dir
+
+
+
+add
+
+joomla
+dir
+
+
+
+add
+
+phpmailer
+dir
+
+
+
+add
+
+pear
+dir
+
+
+
+add
+
+simplepie
+dir
+
+
+
+add
+
+bitfolge
+dir
+
+
+
+add
+
+loader.php
+file
+
+
+
+add
+
+phputf8
+dir
+
+
+
+add
+
+geshi
+dir
+
+
+
+add
+
+tcpdf
+dir
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+domit
+dir
+
+
+
+add
+
+phpxmlrpc
+dir
+
+
+
+add
+
+phpinputfilter
+dir
+
+
+
+add
+
+openid
+dir
+
+
+
+add
+
+phpgacl
+dir
+
+
+
+add
+

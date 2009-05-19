@@ -1,0 +1,72 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/libraries/openid
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+Auth
+dir
+
+
+
+add
+
+consumer.php
+file
+
+
+
+add
+
+CHANGES-2.1.0
+file
+
+
+
+add
+
+CHANGELOG
+file
+
+
+
+add
+
+COPYING
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+NEWS
+file
+
+
+
+add
+
+README
+file
+
+
+
+add
+

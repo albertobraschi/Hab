@@ -1,0 +1,51 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/media/sh404_upgrade_conf_security
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+sh404SEF_AntiFlood_Data.dat
+file
+
+
+
+add
+
+sh404SEF_IP_white_list.txt
+file
+
+
+
+add
+
+sh404SEF_uAgent_black_list.txt
+file
+
+
+
+add
+
+sh404SEF_uAgent_white_list.txt
+file
+
+
+
+add
+
+sh404SEF_IP_black_list.txt
+file
+
+
+
+add
+

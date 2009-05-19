@@ -1,0 +1,44 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/includes/phpmailer
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+LICENSE
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+class.phpmailer.php
+file
+
+
+
+add
+
+class.smtp.php
+file
+
+
+
+add
+

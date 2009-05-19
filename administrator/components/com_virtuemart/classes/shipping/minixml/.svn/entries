@@ -1,0 +1,30 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/administrator/components/com_virtuemart/classes/shipping/minixml
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+minixml.inc.php
+file
+
+
+
+add
+
+classes
+dir
+
+
+
+add
+

@@ -1,0 +1,205 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/libraries/joomla
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+event
+dir
+
+
+
+add
+
+mail
+dir
+
+
+
+add
+
+language
+dir
+
+
+
+add
+
+session
+dir
+
+
+
+add
+
+filesystem
+dir
+
+
+
+add
+
+filter
+dir
+
+
+
+add
+
+error
+dir
+
+
+
+add
+
+methods.php
+file
+
+
+
+add
+
+config.php
+file
+
+
+
+add
+
+installer
+dir
+
+
+
+add
+
+factory.php
+file
+
+
+
+add
+
+plugin
+dir
+
+
+
+add
+
+import.php
+file
+
+
+
+add
+
+application
+dir
+
+
+
+add
+
+cache
+dir
+
+
+
+add
+
+environment
+dir
+
+
+
+add
+
+html
+dir
+
+
+
+add
+
+database
+dir
+
+
+
+add
+
+registry
+dir
+
+
+
+add
+
+base
+dir
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+template
+dir
+
+
+
+add
+
+utilities
+dir
+
+
+
+add
+
+version.php
+file
+
+
+
+add
+
+document
+dir
+
+
+
+add
+
+client
+dir
+
+
+
+add
+
+user
+dir
+
+
+
+add
+

@@ -1,0 +1,373 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/language/en-GB
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+en-GB.plg_search_categories.ini
+file
+
+
+
+add
+
+en-GB.com_user.ini
+file
+
+
+
+add
+
+en-GB.com_weblinks.ini
+file
+
+
+
+add
+
+en-GB.com_wrapper.ini
+file
+
+
+
+add
+
+en-GB.plg_search_sections.ini
+file
+
+
+
+add
+
+en-GB.mod_wrapper.ini
+file
+
+
+
+add
+
+en-GB.mod_archive.ini
+file
+
+
+
+add
+
+en-GB.com_newsfeeds.ini
+file
+
+
+
+add
+
+en-GB.mod_random_image.ini
+file
+
+
+
+add
+
+en-GB.xml
+file
+
+
+
+add
+
+en-GB.com_mailto.ini
+file
+
+
+
+add
+
+en-GB.mod_online.ini
+file
+
+
+
+add
+
+en-GB.com_frontpage.ini
+file
+
+
+
+add
+
+en-GB.mod_whosonline.ini
+file
+
+
+
+add
+
+en-GB.tpl_ja_purity.ini
+file
+
+
+
+add
+
+en-GB.mod_breadcrumbs.ini
+file
+
+
+
+add
+
+en-GB.mod_newsflash.ini
+file
+
+
+
+add
+
+en-GB.com_contact.ini
+file
+
+
+
+add
+
+en-GB.ignore.php
+file
+
+
+
+add
+
+en-GB.mod_stats.ini
+file
+
+
+
+add
+
+en-GB.ini
+file
+
+
+
+add
+
+en-GB.plg_search_content.ini
+file
+
+
+
+add
+
+en-GB.mod_feed.ini
+file
+
+
+
+add
+
+en-GB.com_search.ini
+file
+
+
+
+add
+
+en-GB.tpl_beez.ini
+file
+
+
+
+add
+
+en-GB.mod_poll.ini
+file
+
+
+
+add
+
+en-GB.plg_search_contacts.ini
+file
+
+
+
+add
+
+en-GB.com_messages.ini
+file
+
+
+
+add
+
+en-GB.mod_mainmenu.ini
+file
+
+
+
+add
+
+en-GB.mod_custom.ini
+file
+
+
+
+add
+
+en-GB.plg_search_newsfeeds.ini
+file
+
+
+
+add
+
+en-GB.plg_content_pagebreak.ini
+file
+
+
+
+add
+
+en-GB.com_media.ini
+file
+
+
+
+add
+
+en-GB.mod_mostread.ini
+file
+
+
+
+add
+
+en-GB.tpl_rhuk_milkyway.ini
+file
+
+
+
+add
+
+en-GB.com_joomlapack.ini
+file
+
+
+
+add
+
+en-GB.mod_related_items.ini
+file
+
+
+
+add
+
+en-GB.mod_syndicate.ini
+file
+
+
+
+add
+
+en-GB.mod_sections.ini
+file
+
+
+
+add
+
+en-GB.com_banners.ini
+file
+
+
+
+add
+
+en-GB.mod_banners.ini
+file
+
+
+
+add
+
+en-GB.mod_latestnews.ini
+file
+
+
+
+add
+
+en-GB.plg_system_debug.ini
+file
+
+
+
+add
+
+en-GB.mod_footer.ini
+file
+
+
+
+add
+
+en-GB.com_poll.ini
+file
+
+
+
+add
+
+en-GB.mod_search.ini
+file
+
+
+
+add
+
+en-GB.plg_search_weblinks.ini
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+en-GB.mod_login.ini
+file
+
+
+
+add
+
+en-GB.com_content.ini
+file
+
+
+
+add
+
+en-GB.plg_content_vote.ini
+file
+
+
+
+add
+

@@ -1,0 +1,51 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/libraries/pattemplate/patTemplate/Reader
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+IT.php
+file
+
+
+
+add
+
+File.php
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+DB.php
+file
+
+
+
+add
+
+String.php
+file
+
+
+
+add
+

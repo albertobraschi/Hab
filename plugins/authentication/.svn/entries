@@ -1,0 +1,93 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/plugins/authentication
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+gmail.php
+file
+
+
+
+add
+
+ldap.xml
+file
+
+
+
+add
+
+joomla.xml
+file
+
+
+
+add
+
+example.php
+file
+
+
+
+add
+
+openid.php
+file
+
+
+
+add
+
+ldap.php
+file
+
+
+
+add
+
+joomla.php
+file
+
+
+
+add
+
+gmail.xml
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+example.xml
+file
+
+
+
+add
+
+openid.xml
+file
+
+
+
+add
+

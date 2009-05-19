@@ -1,0 +1,51 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/templates/hm_yaml/html/mod_newsflash
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+horiz.php
+file
+
+
+
+add
+
+_item.php
+file
+
+
+
+add
+
+vert.php
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+default.php
+file
+
+
+
+add
+

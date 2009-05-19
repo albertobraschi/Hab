@@ -1,0 +1,254 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/libraries/domit
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+xml_saxy_lite_parser.php
+file
+
+
+
+add
+
+xml_domit_rss_lite.php
+file
+
+
+
+add
+
+php_http_connector.php
+file
+
+
+
+add
+
+xml_domit_doctor.php
+file
+
+
+
+add
+
+license.txt
+file
+
+
+
+add
+
+xml_domit_lite_include.php
+file
+
+
+
+add
+
+php_http_server_include.php
+file
+
+
+
+add
+
+xml_domit_cache.php
+file
+
+
+
+add
+
+timer.php
+file
+
+
+
+add
+
+domitBanner.gif
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+php_http_client_generic.php
+file
+
+
+
+add
+
+xml_domit_shared.php
+file
+
+
+
+add
+
+php_http_proxy.php
+file
+
+
+
+add
+
+xml_saxy_shared.php
+file
+
+
+
+add
+
+xml_domit_parseattributes.php
+file
+
+
+
+add
+
+xml_domit_include.php
+file
+
+
+
+add
+
+xml_domit_getelementsbypath.php
+file
+
+
+
+add
+
+xml_domit_xpath.php
+file
+
+
+
+add
+
+php_http_status_codes.php
+file
+
+
+
+add
+
+php_http_server_generic.php
+file
+
+
+
+add
+
+xml_domit_parser.php
+file
+
+
+
+add
+
+xml_domit_rss_shared.php
+file
+
+
+
+add
+
+php_text_cache.php
+file
+
+
+
+add
+
+xml_saxy_parser.php
+file
+
+
+
+add
+
+php_file_utilities.php
+file
+
+
+
+add
+
+xml_domit_nodetools.php
+file
+
+
+
+add
+
+xml_domit_nodemaps.php
+file
+
+
+
+add
+
+xml_domit_rss.php
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+xml_domit_lite_parser.php
+file
+
+
+
+add
+
+php_http_client_include.php
+file
+
+
+
+add
+
+php_http_exceptions.php
+file
+
+
+
+add
+
+xml_domit_utilities.php
+file
+
+
+
+add
+

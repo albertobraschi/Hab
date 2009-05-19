@@ -1,0 +1,149 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/administrator/components/com_virtuemart/languages
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+product
+dir
+
+
+
+add
+
+shopper
+dir
+
+
+
+add
+
+shipping
+dir
+
+
+
+add
+
+affiliate
+dir
+
+
+
+add
+
+common
+dir
+
+
+
+add
+
+help
+dir
+
+
+
+add
+
+admin
+dir
+
+
+
+add
+
+manufacturer
+dir
+
+
+
+add
+
+account
+dir
+
+
+
+add
+
+tax
+dir
+
+
+
+add
+
+store
+dir
+
+
+
+add
+
+vendor
+dir
+
+
+
+add
+
+coupon
+dir
+
+
+
+add
+
+checkout
+dir
+
+
+
+add
+
+shop
+dir
+
+
+
+add
+
+msgs
+dir
+
+
+
+add
+
+zone
+dir
+
+
+
+add
+
+order
+dir
+
+
+
+add
+
+reportbasic
+dir
+
+
+
+add
+

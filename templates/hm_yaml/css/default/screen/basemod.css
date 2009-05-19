@@ -1,0 +1,329 @@
+
+@media all
+{
+
+  body { background: #000 url("../../../images/layout/bg-main.png") 50% 0 repeat-y; padding: 0; }
+
+  body { text-align: center }
+  #page_margins { text-align:left; }
+
+  body.contentpane {
+   max-width:none;
+   min-width:inherit;
+   width: auto;
+   text-align:left;
+   padding:1em;
+  }
+
+  #page_margins { width: 930px; margin: 10px auto 0 auto; }
+  #page{ position:relative; }
+
+ .skip:focus, .skip:active {
+   position: absolute;
+   left:2px;
+   top:2px;
+   background:#eee;
+   padding: 3px 6px;
+   border: 1px solid #ccc;
+   outline: none;
+   z-index: 20;
+   font-size:1.16em;
+   font-weight:bold;
+ }
+
+  #header {
+    color: #000;
+    padding: 0 ;
+	width: 930px;
+	margin: 0 auto;
+	min-height: 170px;
+  }
+
+  #header h1.home{
+    margin: 30px 0 0 0;
+	float: left;
+  }
+
+  #header h1.login{
+    margin: 75px auto 0 auto;
+  }
+
+  dl#system-message{
+	display: none;
+  }
+
+
+  .header-full{
+	background: url("../../../images/layout/bg-header.jpg") 50% 0 no-repeat;
+	width: 100%;
+	float: left;
+  }
+
+/** INICIO: ESTILO DO LOGIN **/
+
+  #login{
+	width: 702px;
+	margin: 0 auto;
+  }
+
+  #login ul{
+	margin: 0 ;
+	padding: 0 ;
+	display: inline;
+  }
+
+  #login ul li{
+	margin: 0 ;
+	padding: 4px 8px;
+	float: left;
+	list-style-type: none;
+	background: #2e2e2e;
+	text-transform: uppercase;
+	margin-left: 50px;
+  }
+
+  #login ul li.first{
+	margin-left: 110px;
+  }
+
+  #login ul li.last{
+
+  }
+
+  #login ul li a{
+	color: #fff;
+	font-size: 80%;
+	text-decoration: none;
+  }
+
+  .input-form{
+	width: 300px;
+	margin: 40px auto 0 auto;
+  }
+  .line-input{
+	width: 300px;
+	margin-bottom: 10px;
+	float: left;
+  }
+
+  #login label{
+	width: 60px;
+	float: left;
+  }
+
+  #username_vmlogin,
+  #password_vmlogin {
+	width: 220px;
+	margin-left: 10px;
+	float: left;
+  }
+
+/** FIM: ESTILO DO LOGIN **/
+/** INICIO: ESTILO DO BOAS VINDAS **/
+
+
+    .greeting{
+    float: left;
+    width: 200px;
+    height: 47px;
+    color: #fff;
+    text-align: left;
+    }
+    .greeting span.name{
+    text-transform: uppercase;
+    }
+    .greeting input.button{
+        border: 0;
+        background:#121212;
+        color: #999999;
+        margin-top: 5px;
+        padding: 3px 15px 3px 5px;
+        font-size: 90%
+    }
+    .greeting  #login{
+	width: auto;
+	margin: 0;
+     }
+
+     #changeFont {
+    float: right;
+    width: auto;
+    height: 20px;
+    margin: 45px 40px 0 0;
+    }
+    #changeFont .label{
+        color: #999999;
+        float: left;
+        margin-right: 7px;
+    }
+    .increaseFont{
+        width:16px;
+        height: 16px;
+        float: left;
+        margin-right: 15px;
+        font-size:14px;
+
+    }
+
+     .decreaseFont {
+        width:16px;
+        height: 16px;
+        float: left;
+        margin-right: 5px;
+        font-size:14px;
+
+    }
+    .lock{
+        width:12px;
+        height: 16px;
+        float: left;
+    }
+
+     .search{
+        float: right;
+        width: 270px;
+        height: 29px;
+        margin-top: 45px;
+     }
+     .search form #keyword{
+         width: 219px;
+         padding: 2px;
+         background: #121212;
+         border: 0;
+         color: #999999;
+         margin: 0;
+         float: left;
+         font-size: 95%;
+         height: 16px;
+     }
+     .search form .button{
+         background: #121212 url("../../../images/default/icon-search.gif") 50% 50% no-repeat;
+         width: 20px;
+         height: 20px;
+         padding: 0;
+         margin: 0;
+         border: 0;
+         float: left;
+     }
+     .header_right{
+            width: 50%;
+            float: right;
+     }
+     .header_left{
+            width: 50%;
+            float: left;
+     }
+
+     .menu .parent{
+         background: url("../../../images/layout/icon-menu-parent.gif") 3% 7.5px no-repeat;
+     }
+
+
+/** FIM: ESTILO DO BOAS VINDAS **/
+
+/** INICIO: ESTILO DO Banner flash **/
+	
+	.banner-flash{
+		width: 100%; 
+		height: 355px;
+		background: url("../../../images/bg-banner-flash.jpg") 50% 0 no-repeat;
+		padding-top: 10px;
+	}
+	.banner-flash .banner{
+		margin: 0 auto;
+		width: 930px; 
+		height: 365px;
+	}
+	
+
+/** FIM: ESTILO DO Banner flash **/
+  #header #topnav { color: #aaa; background: transparent; top:5px; right:5px; }
+  #header #topnav ul { margin:0; padding:0; overflow:hidden; list-style:none; list-style-type:none; }
+
+  /* (en) Using item seperator with create seperator in menu direktly (e.g. |) */
+  /* (en) Benutzen Sie Platzhalter (z.B. |), indem Sie direkt im Menü einen Seperator einfügen */
+  #header #topnav ul li { float:left; padding:0 6px; margin:0; border-left:1px solid #ccc; }
+  #header #topnav ul li.first_item { border:0; }
+  #header #topnav ul li#current a { color:#222; }
+
+  #breadcrumbs { margin-bottom:10px; padding-left:20px; border-top:1px solid #efefef; border-bottom:1px solid #efefef; }
+
+  #main { padding:10px 0; }
+
+  .footer-full{
+	float: left;
+	padding: 5px 0;
+	background: #000;
+	width: 100%;
+  }
+
+  #footer {
+    color:#fff;
+    padding: 0;
+	width: 930px;
+	margin: 0 auto;
+  }
+  #footer a{
+    color:#fff;
+    padding: 10px 0;
+	text-decoration: none;
+	font-size: 75%;
+  }
+  #footer a:link,
+  #footer a:hover,
+  #footer a:visited{
+    color: #fff;
+	text-decoration: none;
+  }
+
+  #footer .float_right{
+	margin: 0;
+	padding: 0;
+  }
+
+
+
+  #col1 { width: 25% }
+  #col1_content { padding: 10px 10px 10px 0; }
+
+  #col2 { width: 25% }
+  #col2_content { padding: 10px 20px 10px 10px; }
+
+  #col3 { margin: 0 25% }
+  #col3_content { padding:10px 20px; }
+
+
+  .moduletable, .moduletable_text, .moduletable_menu,
+  .module, .module_text, .module_menu { margin-bottom:2em; }
+
+  .leading_separator, .row_separator, .article_separator, .column_separator {
+    display:block;
+    width:100%;
+    clear:both;
+    line-height:0;
+    height:0;
+    overflow:hidden;
+
+    margin:1em 0;
+    border-top:1px solid #efefef;
+  }
+  .article_separator { display:none; }
+  .row_separator { border:0; }
+
+  .article_column {  }
+  .article_column_content { }
+  .article_column_inner { /* background:#f5f5f5; border:1px solid #e5e5e5; padding:5px; */ }
+
+  #system-message { }
+  #system-message dt { }
+  #system-message dd { }
+  #system-message dd ul { }
+  /* System standard messages */
+  #system-message dd.message ul { }
+  /* System error messages */
+  #system-message dd.error ul { }
+  /* System notice messages */
+  #system-message dd.notice ul { }
+
+}
+

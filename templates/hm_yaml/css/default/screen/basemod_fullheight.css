@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+@media screen, projection
+{
+  body, html { height: 82% !important; padding: 0;}
+    
+  #page_margins {
+  position:relative !important;
+  min-height:100%; /* real browsers */
+  height: auto !important;
+  }
+  * html #page_margins { height:100% !important; }
+   
+  /* allocate space for footer ... */
+  #page { margin-bottom: 70px; }
+
+
+  .footer-full { 
+    position:relative !important; 
+
+    margin: 0 auto; 
+    /* move #footer to its position ... */
+    margin: -34px auto 0;
+
+  border: 0 none;
+  padding: 0;
+  
+  }
+  
+
+}

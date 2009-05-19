@@ -1,0 +1,674 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/administrator/language/pt-BR
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+pt-BR.plg_authentication_ldap.ini
+file
+
+
+
+add
+
+pt-BR.mod_popular.ini
+file
+
+
+
+add
+
+pt-BR.xml
+file
+
+
+
+add
+
+pt-BR.com_frontpage.ini
+file
+
+
+
+add
+
+pt-BR.com_menus.ini
+file
+
+
+
+add
+
+pt-BR.tpl_ja_purity.ini
+file
+
+
+
+add
+
+pt-BR.plg_authentication_gmail.ini
+file
+
+
+
+add
+
+pt-BR.mod_latest.ini
+file
+
+
+
+add
+
+pt-BR.plg_content_geshi.ini
+file
+
+
+
+add
+
+pt-BR.mod_stats.ini
+file
+
+
+
+add
+
+pt-BR.plg_search_content.ini
+file
+
+
+
+add
+
+pt-BR.mod_toolbar.ini
+file
+
+
+
+add
+
+pt-BR.mod_feed.ini
+file
+
+
+
+add
+
+pt-BR.com_search.ini
+file
+
+
+
+add
+
+pt-BR.tpl_beez.ini
+file
+
+
+
+add
+
+pt-BR.com_languages.ini
+file
+
+
+
+add
+
+pt-BR.mod_unread.ini
+file
+
+
+
+add
+
+pt-BR.tpl_rhuk_milkyway.ini
+file
+
+
+
+add
+
+pt-BR.plg_authentication_openid.ini
+file
+
+
+
+add
+
+pt-BR.mod_title.ini
+file
+
+
+
+add
+
+pt-BR.plg_content_loadmodule.ini
+file
+
+
+
+add
+
+pt-BR.com_newsfeeds.menu.ini
+file
+
+
+
+add
+
+pt-BR.mod_components.ini
+file
+
+
+
+add
+
+pt-BR.plg_content_pagenavigation.ini
+file
+
+
+
+add
+
+pt-BR.com_contact.menu.ini
+file
+
+
+
+add
+
+pt-BR.com_users.ini
+file
+
+
+
+add
+
+pt-BR.com_checkin.ini
+file
+
+
+
+add
+
+pt-BR.com_config.ini
+file
+
+
+
+add
+
+pt-BR.com_poll.ini
+file
+
+
+
+add
+
+pt-BR.com_modules.ini
+file
+
+
+
+add
+
+pt-BR.com_search.menu.ini
+file
+
+
+
+add
+
+pt-BR.mod_login.ini
+file
+
+
+
+add
+
+pt-BR.com_content.ini
+file
+
+
+
+add
+
+pt-BR.plg_content_vote.ini
+file
+
+
+
+add
+
+pt-BR.plg_system_legacy.ini
+file
+
+
+
+add
+
+pt-BR.com_user.ini
+file
+
+
+
+add
+
+pt-BR.plg_search_sections.ini
+file
+
+
+
+add
+
+pt-BR.com_wrapper.ini
+file
+
+
+
+add
+
+pt-BR.com_plugins.ini
+file
+
+
+
+add
+
+pt-BR.com_weblinks.menu.ini
+file
+
+
+
+add
+
+pt-BR.com_newsfeeds.ini
+file
+
+
+
+add
+
+pt-BR.plg_system_sef.ini
+file
+
+
+
+add
+
+pt-BR.com_categories.ini
+file
+
+
+
+add
+
+pt-BR.plg_editors_xstandard.ini
+file
+
+
+
+add
+
+pt-BR.mod_online.ini
+file
+
+
+
+add
+
+pt-BR.com_sections.ini
+file
+
+
+
+add
+
+pt-BR.com_admin.ini
+file
+
+
+
+add
+
+pt-BR.plg_editors-xtd_readmore.ini
+file
+
+
+
+add
+
+pt-BR.com_statistics.ini
+file
+
+
+
+add
+
+pt-BR.com_contact.ini
+file
+
+
+
+add
+
+pt-BR.com_installer.ini
+file
+
+
+
+add
+
+pt-BR.com_templates.ini
+file
+
+
+
+add
+
+pt-BR.plg_authentication_example.ini
+file
+
+
+
+add
+
+pt-BR.mod_logged.ini
+file
+
+
+
+add
+
+pt-BR.com_cpanel.ini
+file
+
+
+
+add
+
+pt-BR.ini
+file
+
+
+
+add
+
+pt-BR.tpl_khepri.ini
+file
+
+
+
+add
+
+pt-BR.plg_editors_tinymce.ini
+file
+
+
+
+add
+
+pt-BR.com_massmail.ini
+file
+
+
+
+add
+
+pt-BR.plg_search_contacts.ini
+file
+
+
+
+add
+
+pt-BR.com_messages.ini
+file
+
+
+
+add
+
+pt-BR.plg_xmlrpc_joomla.ini
+file
+
+
+
+add
+
+pt-BR.plg_xmlrpc_blogger.ini
+file
+
+
+
+add
+
+pt-BR.plg_editors-xtd_pagebreak.ini
+file
+
+
+
+add
+
+pt-BR.mod_custom.ini
+file
+
+
+
+add
+
+pt-BR.plg_editors-xtd_image.ini
+file
+
+
+
+add
+
+pt-BR.plg_search_newsfeeds.ini
+file
+
+
+
+add
+
+pt-BR.mod_submenu.ini
+file
+
+
+
+add
+
+pt-BR.plg_content_pagebreak.ini
+file
+
+
+
+add
+
+pt-BR.com_media.ini
+file
+
+
+
+add
+
+pt-BR.plg_content_image.ini
+file
+
+
+
+add
+
+pt-BR.com_trash.ini
+file
+
+
+
+add
+
+pt-BR.plg_user_joomla.ini
+file
+
+
+
+add
+
+pt-BR.mod_status.ini
+file
+
+
+
+add
+
+pt-BR.plg_authentication_joomla.ini
+file
+
+
+
+add
+
+pt-BR.mod_quickicon.ini
+file
+
+
+
+add
+
+pt-BR.plg_system_backlink.ini
+file
+
+
+
+add
+
+pt-BR.com_banners.ini
+file
+
+
+
+add
+
+pt-BR.com_menus.menu.ini
+file
+
+
+
+add
+
+pt-BR.com_banners.menu.ini
+file
+
+
+
+add
+
+pt-BR.plg_editors_none.ini
+file
+
+
+
+add
+
+pt-BR.plg_system_debug.ini
+file
+
+
+
+add
+
+pt-BR.plg_content_emailcloak.ini
+file
+
+
+
+add
+
+pt-BR.mod_footer.ini
+file
+
+
+
+add
+
+pt-BR.com_cache.ini
+file
+
+
+
+add
+
+pt-BR.mod_menu.ini
+file
+
+
+
+add
+
+pt-BR.plg_search_weblinks.ini
+file
+
+
+
+add
+
+pt-BR.com_login.ini
+file
+
+
+
+add
+
+pt-BR.plg_content_code.ini
+file
+
+
+
+add
+
+pt-BR.com_poll.menu.ini
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+pt-BR.plg_system_cache.ini
+file
+
+
+
+add
+
+pt-BR.com_weblinks.ini
+file
+
+
+
+add
+
+pt-BR.plg_search_categories.ini
+file
+
+
+
+add
+

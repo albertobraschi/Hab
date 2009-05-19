@@ -1,0 +1,44 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/administrator/components/com_virtuemart/classes/export
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+index.html
+file
+
+
+
+add
+
+ps_xmlexport.php
+file
+
+
+
+add
+
+ps_olsi.cfg.php
+file
+
+
+
+add
+
+ps_olsi.php
+file
+
+
+
+add
+

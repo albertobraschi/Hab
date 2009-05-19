@@ -1,0 +1,58 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/components/com_user/views/login/tmpl
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+metadata.xml
+file
+
+
+
+add
+
+default_login.php
+file
+
+
+
+add
+
+default_logout.php
+file
+
+
+
+add
+
+default.xml
+file
+
+
+
+add
+
+default.php
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+

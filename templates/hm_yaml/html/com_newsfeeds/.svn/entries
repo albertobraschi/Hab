@@ -1,0 +1,44 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/templates/hm_yaml/html/com_newsfeeds
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+newsfeed
+dir
+
+
+
+add
+
+categories
+dir
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+category
+dir
+
+
+
+add
+

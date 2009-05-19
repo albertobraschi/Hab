@@ -1,0 +1,86 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/plugins
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+authentication
+dir
+
+
+
+add
+
+tmp
+dir
+
+
+
+add
+
+system
+dir
+
+
+
+add
+
+search
+dir
+
+
+
+add
+
+xmlrpc
+dir
+
+
+
+add
+
+editors-xtd
+dir
+
+
+
+add
+
+editors
+dir
+
+
+
+add
+
+content
+dir
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+user
+dir
+
+
+
+add
+

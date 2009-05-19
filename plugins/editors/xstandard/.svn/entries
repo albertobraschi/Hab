@@ -1,0 +1,121 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/plugins/editors/xstandard
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+cms-directory-xhtml-entities.xml
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+cms-directory-xhtml-symbol.xml
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+cms-directory-xhtml-latin1.xml
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+attachmentlibrary.php
+file
+
+
+
+add
+
+xstandard.js
+file
+
+
+
+add
+
+preview.xsl
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+directory.php
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+cms-directory-xhtml-special.xml
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+imagelibrary.php
+file
+
+
+
+add
+

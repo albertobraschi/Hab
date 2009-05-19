@@ -1,0 +1,258 @@
+@CHARSET "UTF-8";
+
+/*
+ * Control Panel
+ */
+
+div.activeprofile
+{
+	width: 60%;
+	margin-left: 20%;
+	margin-bottom: 1em;
+	border: thin dotted red;
+	text-align: center;
+	font-weight: bold;
+	background-color: #ffffcc;
+}
+
+p.ok
+{
+	text-align: center;
+	color: green;
+	font-size: larger;
+}
+	
+p.notok
+{
+	text-align: center;
+	color: red;
+	font-weight: bold;
+	font-size: larger;
+}
+
+p.statuswarning
+{
+	text-align: center;
+	color: #666600;
+	font-weight: bold;
+	font-size: larger;
+}
+
+a.severity-low
+{
+	color: #000000;
+	font-style: italic;
+}
+
+a.severity-medium
+{
+	color: #999900;
+}
+
+a.severity-high
+{
+	color: red;
+	font-weight: bold;
+}
+
+div.jptroubleshooter
+{
+	border: medium solid #cc0000;
+	background-color: #ffff00;
+	padding: 0px 5px;
+	margin-bottom: 5pt;
+}
+
+/*
+ * Backup Error
+ */
+
+
+div.errorframe
+{
+	margin: 1em;
+	padding: 1em;
+	border: 3px solid #990000;
+	background-color: #ffffcc;
+	color: #330000;
+}
+
+div.warningframe
+{
+	margin: 1em;
+	padding: 1em;
+	border: 3px solid #999900;
+	background-color: #ffffee;
+	color: #333300;
+}
+
+div.errorframe p.errormessage
+{
+	padding: 0.5em;
+	border-left: 6px solid gray;
+	background-color: #ffff99;
+	color: #cc0000;
+	font-weight: bold;
+	font-size: larger;
+}
+
+div.errorframe a
+{
+	color: green;
+	font-weight: bolder;
+}
+
+/*
+ * Progress page
+ */
+
+div.sitePack {
+	width: 90%;
+	margin: 1em 3%;
+	background-color: #eeeeff;
+	border: thin dotted black;
+	padding: 1.2em;
+	text-align: left;
+}
+
+div.status
+{
+	width: 90%;
+	margin: 1em 3%;
+	background-color: #EEEEFF;
+	padding: 1.2em;
+	font-family: fixed;
+}
+
+div.jplastresponse
+{
+	font-size: 8pt;
+	color: gray;
+	font-weight: bold;
+}
+
+div.jplastresponse p
+{
+	margin: 0px;
+	padding: 5px;
+}
+
+/*
+ * Progress table
+ */
+ 
+table.stepstable tr {
+	height: 1.5em;
+}
+
+table.stepstable thead tr {
+	height: 0em;
+}
+
+table.stepstable tr td {
+	font-size: 15px;
+}
+
+table.stepstable {
+	font-size: medium;
+	border: thin dotted #aaaaaa;
+	border-collapse: collapse;
+	width: 90%;
+	padding: 4px;
+	color: #999999;
+	background-color: #f3f3f9;
+}
+
+tr.active {
+	color: #000000;
+	font-weight: bold;
+	background-color: #ffff99;
+}
+
+tr.ok {
+	color: #003300;
+	font-weight: normal;
+	background-color: #f3fff9;
+}
+
+tr.error {
+	color: #aa0000;
+	font-weight: bold;
+	background-color: #fff3f9;
+}
+
+/*
+ * JoomlaPack Buttons
+ */
+
+.jpbutton {
+	display: block;
+	width: 250px;
+	height: 32px;
+	text-align: left;
+	text-decoration: none;
+	cursor: pointer;
+	border: thin dotted #333333;
+	padding: 3px;
+	font-weight: normal;
+	font-size: x-small;
+	margin-bottom: 1em;
+}
+
+.jpbutton:hover {
+	background-color: #ffffee;
+	text-decoration: none;
+	border: thin solid #3333ff;
+}
+
+.jpbutton img {
+	display: block;
+	float: left;
+	width: 32px;
+	height: 32px;
+}
+
+.jpbutton p, .jpbutton span {
+	display: block;
+	float: right;
+	padding: 0px;
+	width: 210px;
+	margin: 0px;
+}
+
+/*
+ * BUFA
+ */
+.bufa-ok
+{
+	color: green;
+	font-weight: bold;
+}
+
+.bufa-obsolete
+{
+	color: black;
+	font-style: italic;
+}
+
+.bufa-fail
+{
+	color: red;
+	font-weight: bold;
+}
+	
+.bufa-pending
+{
+	color: #666600;
+	font-style: italic;
+}
+
+.icon-32-export
+{
+	background-image: url(../images/export.png);
+}
+
+.icon-32-import
+{
+	background-image: url(../images/import.png);
+}

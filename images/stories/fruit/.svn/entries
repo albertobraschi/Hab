@@ -1,0 +1,79 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/images/stories/fruit
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+strawberry.jpg
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+peas.jpg
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+pears.jpg
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+index.html
+file
+
+
+
+add
+
+cherry.jpg
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+

@@ -1,0 +1,44 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/libraries/joomla/registry
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+format
+dir
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+format.php
+file
+
+
+
+add
+
+registry.php
+file
+
+
+
+add
+

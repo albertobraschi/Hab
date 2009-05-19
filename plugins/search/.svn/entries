@@ -1,0 +1,121 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/plugins/search
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+newsfeeds.xml
+file
+
+
+
+add
+
+vmxsearch.plugin.php
+file
+
+
+
+add
+
+categories.xml
+file
+
+
+
+add
+
+sections.xml
+file
+
+
+
+add
+
+vmxsearch.plugin.xml
+file
+
+
+
+add
+
+content.php
+file
+
+
+
+add
+
+weblinks.php
+file
+
+
+
+add
+
+contacts.php
+file
+
+
+
+add
+
+newsfeeds.php
+file
+
+
+
+add
+
+content.xml
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+categories.php
+file
+
+
+
+add
+
+contacts.xml
+file
+
+
+
+add
+
+sections.php
+file
+
+
+
+add
+
+weblinks.xml
+file
+
+
+
+add
+

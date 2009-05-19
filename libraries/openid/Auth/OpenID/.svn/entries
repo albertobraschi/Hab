@@ -1,0 +1,219 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/libraries/openid/Auth/OpenID
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+URINorm.php
+file
+
+
+
+add
+
+Consumer.php
+file
+
+
+
+add
+
+FileStore.php
+file
+
+
+
+add
+
+CryptUtil.php
+file
+
+
+
+add
+
+Interface.php
+file
+
+
+
+add
+
+SReg.php
+file
+
+
+
+add
+
+Nonce.php
+file
+
+
+
+add
+
+KVForm.php
+file
+
+
+
+add
+
+DumbStore.php
+file
+
+
+
+add
+
+Server.php
+file
+
+
+
+add
+
+AX.php
+file
+
+
+
+add
+
+HMAC.php
+file
+
+
+
+add
+
+Parse.php
+file
+
+
+
+add
+
+BigMath.php
+file
+
+
+
+add
+
+Association.php
+file
+
+
+
+add
+
+Extension.php
+file
+
+
+
+add
+
+SQLStore.php
+file
+
+
+
+add
+
+Discover.php
+file
+
+
+
+add
+
+SQLiteStore.php
+file
+
+
+
+add
+
+ServerRequest.php
+file
+
+
+
+add
+
+PostgreSQLStore.php
+file
+
+
+
+add
+
+MySQLStore.php
+file
+
+
+
+add
+
+MemcachedStore.php
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+Message.php
+file
+
+
+
+add
+
+DatabaseConnection.php
+file
+
+
+
+add
+
+PAPE.php
+file
+
+
+
+add
+
+TrustRoot.php
+file
+
+
+
+add
+
+DiffieHellman.php
+file
+
+
+
+add
+

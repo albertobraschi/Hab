@@ -1,0 +1,58 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/media
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+sh404_upgrade_conf_logs
+dir
+
+
+
+add
+
+system
+dir
+
+
+
+add
+
+sh404_upgrade_conf_security
+dir
+
+
+
+add
+
+sh404_upgrade_conf_hab.artdesign.com.br.custom.php
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+sh404_upgrade_conf_hab.artdesign.com.br.php
+file
+
+
+
+add
+

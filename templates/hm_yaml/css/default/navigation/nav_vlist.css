@@ -1,0 +1,71 @@
+@charset "UTF-8";
+
+
+@media screen, projection
+{
+  #main .menu {
+    width: 100%;
+    overflow: hidden;
+    margin:0;
+    list-style-type: none;
+  }
+
+  #main .menu ul { list-style-type: none; margin:0; padding: 0; }
+  #main .menu li { float:left; width: 100%; margin:0; padding: 0 }
+
+  #main .menu a,
+  #main .menu span.separator {
+    display:block;
+    width: 90%;
+    padding:3px 0 3px 10%;
+    text-decoration: none;
+    color: #fff;
+    border-top: 1px #999 dotted;
+  }
+
+  #main .menu li#current a.active_link {
+    font-weight: bold;
+    color: #fff;
+    border-top: 1px #999 dotted;
+    cursor:default;
+  }
+  #main .menu li.first_item a{
+      border: 0;
+  }
+
+  /* Level 1 */
+  #main .menu li a,
+  #main .menu li span.separator { width: 90%; padding-left: 10%;  color: #fff; }
+
+  #main .menu li a:focus,
+  #main .menu li a:hover,
+  #main .menu li a:active {  color: #fff; }
+
+  /* Level 2 */
+  #main .menu li ul li a,
+  #main .menu li ul li span.separator { width: 85%; padding-left: 15%; border-top: 0px ;}
+
+  #main .menu li ul li a { color: #fff; }
+  #main .menu li ul li a:focus,
+  #main .menu li ul li a:hover,
+  #main .menu li ul li a:active {  color: #fff; }
+
+  /* Level 3 */
+  #main .menu li ul li ul li a,
+  #main .menu li ul li ul li span.separator { width: 70%; padding-left: 30%; }
+
+  #main .menu li ul li ul li a {color: #888; }
+  #main .menu li ul li ul li a:focus,
+  #main .menu li ul li ul li a:hover,
+  #main .menu li ul li ul li a:active {  color: #fff; }
+
+  /* Level 4 */
+  #main .menu li ul li ul li ul li a,
+  #main .menu li ul li ul li ul li span.separator { width: 60%; padding-left: 40%; }
+
+  #main .menu li ul li ul li ul li a {  color: #aaa; }
+  #main .menu li ul li ul li ul li a:focus,
+  #main .menu li ul li ul li ul li a:hover,
+  #main .menu li ul li ul li ul li a:active {  color: #fff; }
+}
+

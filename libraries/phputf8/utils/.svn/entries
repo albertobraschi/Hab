@@ -1,0 +1,65 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/libraries/phputf8/utils
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+validation.php
+file
+
+
+
+add
+
+patterns.php
+file
+
+
+
+add
+
+specials.php
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+bad.php
+file
+
+
+
+add
+
+unicode.php
+file
+
+
+
+add
+
+ascii.php
+file
+
+
+
+add
+

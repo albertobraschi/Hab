@@ -1,0 +1,65 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/libraries/pattemplate/patTemplate/OutputFilter
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+Tidy.php
+file
+
+
+
+add
+
+Gzip.php
+file
+
+
+
+add
+
+StripWhitespace.php
+file
+
+
+
+add
+
+BBCode.php
+file
+
+
+
+add
+
+HighlightPhp.php
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+PdfLatex.php
+file
+
+
+
+add
+

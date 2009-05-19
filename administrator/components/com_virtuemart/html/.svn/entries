@@ -1,0 +1,1038 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/administrator/components/com_virtuemart/html
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+product.product_product_type_list.php
+file
+
+
+
+add
+
+checkout_register_form.php
+file
+
+
+
+add
+
+admin.module_form.php
+file
+
+
+
+add
+
+store.display.php
+file
+
+
+
+add
+
+shop.basket_short.php
+file
+
+
+
+add
+
+admin.theme_config_form.php
+file
+
+
+
+add
+
+account.index.php
+file
+
+
+
+add
+
+product.review_form.php
+file
+
+
+
+add
+
+checkout.thankyou.php
+file
+
+
+
+add
+
+ro_basket.php
+file
+
+
+
+add
+
+store.store_form.php
+file
+
+
+
+add
+
+vendor.vendor_form.php
+file
+
+
+
+add
+
+shop.tos.php
+file
+
+
+
+add
+
+admin.usergroup_list.php
+file
+
+
+
+add
+
+product.product_product_type_form.php
+file
+
+
+
+add
+
+product.product_display.php
+file
+
+
+
+add
+
+shop.getfile.php
+file
+
+
+
+add
+
+product.file_list.php
+file
+
+
+
+add
+
+product.product_list.php
+file
+
+
+
+add
+
+admin.ajax_tools.php
+file
+
+
+
+add
+
+shopper.shopper_by_group_list.php
+file
+
+
+
+add
+
+shop.cart.php
+file
+
+
+
+add
+
+product.product_discount_list.php
+file
+
+
+
+add
+
+admin.usergroup_form.php
+file
+
+
+
+add
+
+shopper.shopper_group_list.php
+file
+
+
+
+add
+
+admin.update_result.php
+file
+
+
+
+add
+
+zone.assign_zones.php
+file
+
+
+
+add
+
+store.shipping_module_list.php
+file
+
+
+
+add
+
+shop.parameter_search.php
+file
+
+
+
+add
+
+manufacturer.manufacturer_category_list.php
+file
+
+
+
+add
+
+product.file_form.php
+file
+
+
+
+add
+
+product.product_form.php
+file
+
+
+
+add
+
+shop.savedcart.php
+file
+
+
+
+add
+
+shop.ask.php
+file
+
+
+
+add
+
+product.product_discount_form.php
+file
+
+
+
+add
+
+savedbasket.php
+file
+
+
+
+add
+
+footer.php
+file
+
+
+
+add
+
+shopper.shopper_group_form.php
+file
+
+
+
+add
+
+shop.parameter_search_form.php
+file
+
+
+
+add
+
+coupon.coupon_list.php
+file
+
+
+
+add
+
+store.shipping_module_form.php
+file
+
+
+
+add
+
+order.label_print.php
+file
+
+
+
+add
+
+shop.waiting_list.php
+file
+
+
+
+add
+
+manufacturer.manufacturer_category_form.php
+file
+
+
+
+add
+
+shop.view_images.php
+file
+
+
+
+add
+
+account.billing.php
+file
+
+
+
+add
+
+account.shipping.php
+file
+
+
+
+add
+
+product.product_attribute_list.php
+file
+
+
+
+add
+
+shop.index.php
+file
+
+
+
+add
+
+zone.zone_list.php
+file
+
+
+
+add
+
+shop.registration.php
+file
+
+
+
+add
+
+order.order_status_list.php
+file
+
+
+
+add
+
+coupon.coupon_form.php
+file
+
+
+
+add
+
+account.orders.php
+file
+
+
+
+add
+
+shop.product_details.php
+file
+
+
+
+add
+
+shop.debug.php
+file
+
+
+
+add
+
+shop.infopage.php
+file
+
+
+
+add
+
+checkout.epay_result.php
+file
+
+
+
+add
+
+store.user_address_form.php
+file
+
+
+
+add
+
+shipping.carrier_list.php
+file
+
+
+
+add
+
+product.product_attribute_form.php
+file
+
+
+
+add
+
+admin.update_check.php
+file
+
+
+
+add
+
+zone.zone_form.php
+file
+
+
+
+add
+
+basket.php
+file
+
+
+
+add
+
+shop.browse.php
+file
+
+
+
+add
+
+admin.update_preview.php
+file
+
+
+
+add
+
+order.order_status_form.php
+file
+
+
+
+add
+
+checkout.result.php
+file
+
+
+
+add
+
+product.product_category_list.php
+file
+
+
+
+add
+
+shipping.carrier_form.php
+file
+
+
+
+add
+
+checkout.confirm.php
+file
+
+
+
+add
+
+help.about.php
+file
+
+
+
+add
+
+store.index.php
+file
+
+
+
+add
+
+admin.function_list.php
+file
+
+
+
+add
+
+store.export_list.php
+file
+
+
+
+add
+
+order.label_void.php
+file
+
+
+
+add
+
+order.label_signature.php
+file
+
+
+
+add
+
+shop.feed.php
+file
+
+
+
+add
+
+product.product_price_list.php
+file
+
+
+
+add
+
+product.product_category_form.php
+file
+
+
+
+add
+
+order.order_list.php
+file
+
+
+
+add
+
+vendor.vendor_category_list.php
+file
+
+
+
+add
+
+product.ajax_tools.php
+file
+
+
+
+add
+
+product.product_child_form.php
+file
+
+
+
+add
+
+product.product_type_list.php
+file
+
+
+
+add
+
+admin.user_address_form.php
+file
+
+
+
+add
+
+store.export_form.php
+file
+
+
+
+add
+
+admin.function_form.php
+file
+
+
+
+add
+
+shop.pdf_output.php
+file
+
+
+
+add
+
+shop.error.php
+file
+
+
+
+add
+
+shop.downloads.php
+file
+
+
+
+add
+
+admin.user_field_list.php
+file
+
+
+
+add
+
+store.payment_method_list.php
+file
+
+
+
+add
+
+product.product_price_form.php
+file
+
+
+
+add
+
+store.user_list.php
+file
+
+
+
+add
+
+shipping.rate_list.php
+file
+
+
+
+add
+
+order.order_printdetails.php
+file
+
+
+
+add
+
+vendor.vendor_category_form.php
+file
+
+
+
+add
+
+checkout.index.php
+file
+
+
+
+add
+
+account.order_details.php
+file
+
+
+
+add
+
+shop.waiting_thanks.php
+file
+
+
+
+add
+
+tax.tax_list.php
+file
+
+
+
+add
+
+reportbasic.index.php
+file
+
+
+
+add
+
+product.product_type_form.php
+file
+
+
+
+add
+
+product.specialprod.php
+file
+
+
+
+add
+
+admin.country_state_list.php
+file
+
+
+
+add
+
+store.payment_method_keychange.php
+file
+
+
+
+add
+
+checkout.2Checkout_result.php
+file
+
+
+
+add
+
+store.creditcard_list.php
+file
+
+
+
+add
+
+store.payment_method_form.php
+file
+
+
+
+add
+
+admin.user_field_form.php
+file
+
+
+
+add
+
+store.user_form.php
+file
+
+
+
+add
+
+shipping.rate_form.php
+file
+
+
+
+add
+
+checkout.login_form.php
+file
+
+
+
+add
+
+account.shipto.php
+file
+
+
+
+add
+
+order.order_print.php
+file
+
+
+
+add
+
+shop.cart_reset.php
+file
+
+
+
+add
+
+tax.tax_form.php
+file
+
+
+
+add
+
+admin.country_state_form.php
+file
+
+
+
+add
+
+product.folders.php
+file
+
+
+
+add
+
+order.label_track.php
+file
+
+
+
+add
+
+manufacturer.manufacturer_list.php
+file
+
+
+
+add
+
+store.creditcard_form.php
+file
+
+
+
+add
+
+product.product_move.php
+file
+
+
+
+add
+
+admin.country_list.php
+file
+
+
+
+add
+
+admin.show_cfg.php
+file
+
+
+
+add
+
+shopper.shopper_address_form.php
+file
+
+
+
+add
+
+shop_browse_queries.php
+file
+
+
+
+add
+
+order.label_image.php
+file
+
+
+
+add
+
+product.product_type_parameter_list.php
+file
+
+
+
+add
+
+admin.curr_list.php
+file
+
+
+
+add
+
+admin.user_list.php
+file
+
+
+
+add
+
+shop.manufacturer_page.php
+file
+
+
+
+add
+
+store.shipping_modules.php
+file
+
+
+
+add
+
+admin.module_list.php
+file
+
+
+
+add
+
+manufacturer.manufacturer_form.php
+file
+
+
+
+add
+
+product.review_list.php
+file
+
+
+
+add
+
+product.product_inventory.php
+file
+
+
+
+add
+
+shop.search.php
+file
+
+
+
+add
+
+admin.country_form.php
+file
+
+
+
+add
+
+shop.recommend.php
+file
+
+
+
+add
+
+product.product_type_parameter_form.php
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+vendor.vendor_list.php
+file
+
+
+
+add
+
+admin.curr_form.php
+file
+
+
+
+add
+
+admin.user_form.php
+file
+
+
+
+add
+

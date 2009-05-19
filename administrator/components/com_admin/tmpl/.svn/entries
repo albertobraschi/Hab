@@ -1,0 +1,65 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/administrator/components/com_admin/tmpl
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+sysinfo_phpinfo.php
+file
+
+
+
+add
+
+sysinfo_directory.php
+file
+
+
+
+add
+
+sysinfo_system.php
+file
+
+
+
+add
+
+sysinfo_config.php
+file
+
+
+
+add
+
+navigation.php
+file
+
+
+
+add
+
+sysinfo_phpsettings.php
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+

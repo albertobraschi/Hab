@@ -1,0 +1,3 @@
+Date	Time	Cause	IP	Name	User agent	Request method	Request URI	Comment
+2009-05-13	22:32:04	Page not found (404)	189.123.231.133	bd7be785.virtua.com.br	Mozilla/5.0 (X11; U; Linux i686; pt-BR; rv:1.9.0.10) Gecko/2009042523 Ubuntu/9.04 (jaunty) Firefox/3.0.10	GET	/ll
+2009-05-13	22:32:23	Page not found (404)	189.123.231.133	bd7be785.virtua.com.br	Mozilla/5.0 (X11; U; Linux i686; pt-BR; rv:1.9.0.10) Gecko/2009042523 Ubuntu/9.04 (jaunty) Firefox/3.0.10	GET	/kpo%E1%B9%95ui

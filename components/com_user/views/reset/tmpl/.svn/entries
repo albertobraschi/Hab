@@ -1,0 +1,65 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/components/com_user/views/reset/tmpl
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+confirm.php
+file
+
+
+
+add
+
+default.xml
+file
+
+
+
+add
+
+complete.xml
+file
+
+
+
+add
+
+default.php
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+confirm.xml
+file
+
+
+
+add
+
+complete.php
+file
+
+
+
+add
+

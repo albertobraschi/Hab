@@ -1,0 +1,142 @@
+9
+
+dir
+0
+https://svn.webservidor.net/th28066/hab/components/com_virtuemart/themes/default/templates/common
+https://svn.webservidor.net/th28066
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+login_form.tpl.php
+file
+
+
+
+add
+
+buttons.tpl.php
+file
+
+
+
+add
+
+productsnapshot.tpl.php
+file
+
+
+
+add
+
+shopIndex.tpl.php
+file
+
+
+
+add
+
+voteform.tpl.php
+file
+
+
+
+add
+
+price.tpl.php
+file
+
+
+
+add
+
+relatedProducts.tpl.php
+file
+
+
+
+add
+
+minicart.tpl.php
+file
+
+
+
+add
+
+couponField.tpl.php
+file
+
+
+
+add
+
+votes_allvotes.tpl.php
+file
+
+
+
+add
+
+availability.tpl.php
+file
+
+
+
+add
+
+categoryChildlist.tpl.php
+file
+
+
+
+add
+
+pathway.tpl.php
+file
+
+
+
+add
+
+recent.tpl.php
+file
+
+
+
+add
+
+featuredProducts.tpl.php
+file
+
+
+
+add
+
+reviews.tpl.php
+file
+
+
+
+add
+
+reviewform.tpl.php
+file
+
+
+
+add
+
+moreImages.tpl.php
+file
+
+
+
+add
+
