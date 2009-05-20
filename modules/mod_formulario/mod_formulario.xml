@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<install type="module" version="1.5.0">
+    <name>Pedido de Material</name>
+    <author>Octagono Tecnologia</author>
+    <creationDate>Maio/09</creationDate>
+    <copyright>All rights reserved.</copyright>
+    <license>http://www.opensource.org/licenses/mit-license.php</license>
+    <version>1.0</version>
+    <description>Formulario</description>
+    <files>
+        <filename module="mod_formulario">mod_formulario.php</filename>
+    </files>
+    <params>
+        <param name="id" type="section" default="" label="Selecione uma seção" description="Selecione uma seção para exibir como um blog"/>
+    </params>
+</install>
+

@@ -2,135 +2,135 @@
 @media all
 {
 
-  body { background: #000 url("../../../images/layout/bg-main.png") 50% 0 repeat-y; padding: 0; }
+    body { background: #000 url("../../../images/layout/bg-main.png") 50% 0 repeat-y; padding: 0; }
 
-  body { text-align: center }
-  #page_margins { text-align:left; }
+    body { text-align: center }
+    #page_margins { text-align:left; }
 
-  body.contentpane {
-   max-width:none;
-   min-width:inherit;
-   width: auto;
-   text-align:left;
-   padding:1em;
-  }
+    body.contentpane {
+        max-width:none;
+        min-width:inherit;
+        width: auto;
+        text-align:left;
+        padding:1em;
+    }
 
-  #page_margins { width: 930px; margin: 10px auto 0 auto; }
-  #page{ position:relative; }
+    #page_margins { width: 930px; margin: 10px auto 0 auto; }
+    #page{ position:relative; }
 
- .skip:focus, .skip:active {
-   position: absolute;
-   left:2px;
-   top:2px;
-   background:#eee;
-   padding: 3px 6px;
-   border: 1px solid #ccc;
-   outline: none;
-   z-index: 20;
-   font-size:1.16em;
-   font-weight:bold;
- }
+    .skip:focus, .skip:active {
+        position: absolute;
+        left:2px;
+        top:2px;
+        background:#eee;
+        padding: 3px 6px;
+        border: 1px solid #ccc;
+        outline: none;
+        z-index: 20;
+        font-size:1.16em;
+        font-weight:bold;
+    }
 
-  #header {
-    color: #000;
-    padding: 0 ;
-	width: 930px;
-	margin: 0 auto;
-	min-height: 170px;
-  }
+    #header {
+        color: #000;
+        padding: 0 ;
+        width: 930px;
+        margin: 0 auto;
+        min-height: 170px;
+    }
 
-  #header h1.home{
-    margin: 30px 0 0 0;
-	float: left;
-  }
+    #header h1.home{
+        margin: 30px 0 0 0;
+        float: left;
+    }
 
-  #header h1.login{
-    margin: 75px auto 0 auto;
-  }
+    #header h1.login{
+        margin: 75px auto 0 auto;
+    }
 
-  dl#system-message{
-	display: none;
-  }
+    dl#system-message{
+        display: none;
+    }
 
 
-  .header-full{
-	background: url("../../../images/layout/bg-header.jpg") 50% 0 no-repeat;
-	width: 100%;
-	float: left;
-  }
+    .header-full{
+        background: url("../../../images/layout/bg-header.jpg") 50% 0 no-repeat;
+        width: 100%;
+        float: left;
+    }
 
-/** INICIO: ESTILO DO LOGIN **/
+    /** INICIO: ESTILO DO LOGIN **/
 
-  #login{
-	width: 702px;
-	margin: 0 auto;
-  }
+    #login{
+        width: 702px;
+        margin: 0 auto;
+    }
 
-  #login ul{
-	margin: 0 ;
-	padding: 0 ;
-	display: inline;
-  }
+    #login ul{
+        margin: 0 ;
+        padding: 0 ;
+        display: inline;
+    }
 
-  #login ul li{
-	margin: 0 ;
-	padding: 4px 8px;
-	float: left;
-	list-style-type: none;
-	background: #2e2e2e;
-	text-transform: uppercase;
-	margin-left: 50px;
-  }
+    #login ul li{
+        margin: 0 ;
+        padding: 4px 8px;
+        float: left;
+        list-style-type: none;
+        background: #2e2e2e;
+        text-transform: uppercase;
+        margin-left: 50px;
+    }
 
-  #login ul li.first{
-	margin-left: 110px;
-  }
+    #login ul li.first{
+        margin-left: 110px;
+    }
 
-  #login ul li.last{
+    #login ul li.last{
 
-  }
+    }
 
-  #login ul li a{
-	color: #fff;
-	font-size: 80%;
-	text-decoration: none;
-  }
+    #login ul li a{
+        color: #fff;
+        font-size: 80%;
+        text-decoration: none;
+    }
 
-  .input-form{
-	width: 300px;
-	margin: 40px auto 0 auto;
-  }
-  .line-input{
-	width: 300px;
-	margin-bottom: 10px;
-	float: left;
-  }
+    .input-form{
+        width: 300px;
+        margin: 40px auto 0 auto;
+    }
+    .line-input{
+        width: 300px;
+        margin-bottom: 10px;
+        float: left;
+    }
 
-  #login label{
-	width: 60px;
-	float: left;
-  }
+    #login label{
+        width: 60px;
+        float: left;
+    }
 
-  #username_vmlogin,
-  #password_vmlogin {
-	width: 220px;
-	margin-left: 10px;
-	float: left;
-  }
+    #username_vmlogin,
+    #password_vmlogin {
+        width: 220px;
+        margin-left: 10px;
+        float: left;
+    }
 
-/** FIM: ESTILO DO LOGIN **/
-/** INICIO: ESTILO DO BOAS VINDAS **/
+    /** FIM: ESTILO DO LOGIN **/
+    /** INICIO: ESTILO DO BOAS VINDAS **/
 
 
     .greeting{
-    float: left;
-    width: 200px;
-    height: 47px;
-    color: #fff;
-    text-align: left;
+        float: left;
+        width: 200px;
+        height: 47px;
+        color: #fff;
+        text-align: left;
     }
     .greeting span.name{
-    text-transform: uppercase;
+        text-transform: uppercase;
     }
     .greeting input.button{
         border: 0;
@@ -141,15 +141,15 @@
         font-size: 90%
     }
     .greeting  #login{
-	width: auto;
-	margin: 0;
-     }
+        width: auto;
+        margin: 0;
+    }
 
-     #changeFont {
-    float: right;
-    width: auto;
-    height: 20px;
-    margin: 45px 40px 0 0;
+    #changeFont {
+        float: right;
+        width: auto;
+        height: 20px;
+        margin: 45px 40px 0 0;
     }
     #changeFont .label{
         color: #999999;
@@ -165,7 +165,7 @@
 
     }
 
-     .decreaseFont {
+    .decreaseFont {
         width:16px;
         height: 16px;
         float: left;
@@ -179,151 +179,271 @@
         float: left;
     }
 
-     .search{
+    .search{
         float: right;
         width: 270px;
         height: 29px;
         margin-top: 45px;
-     }
-     .search form #keyword{
-         width: 219px;
-         padding: 2px;
-         background: #121212;
-         border: 0;
-         color: #999999;
-         margin: 0;
-         float: left;
-         font-size: 95%;
-         height: 16px;
-     }
-     .search form .button{
-         background: #121212 url("../../../images/default/icon-search.gif") 50% 50% no-repeat;
-         width: 20px;
-         height: 20px;
-         padding: 0;
-         margin: 0;
-         border: 0;
-         float: left;
-     }
-     .header_right{
-            width: 50%;
-            float: right;
-     }
-     .header_left{
-            width: 50%;
-            float: left;
-     }
+    }
+    .search form #keyword{
+        width: 219px;
+        padding: 2px;
+        background: #121212;
+        border: 0;
+        color: #999999;
+        margin: 0;
+        float: left;
+        font-size: 95%;
+        height: 16px;
+    }
+    .search form .button{
+        background: #121212 url("../../../images/default/icon-search.gif") 50% 50% no-repeat;
+        width: 20px;
+        height: 20px;
+        padding: 0;
+        margin: 0;
+        border: 0;
+        float: left;
+    }
+    .header_right{
+        width: 50%;
+        float: right;
+    }
+    .header_left{
+        width: 50%;
+        float: left;
+    }
 
-     .menu .parent{
-         background: url("../../../images/layout/icon-menu-parent.gif") 3% 7.5px no-repeat;
-     }
-
-
-/** FIM: ESTILO DO BOAS VINDAS **/
-
-/** INICIO: ESTILO DO Banner flash **/
-	
-	.banner-flash{
-		width: 100%; 
-		height: 355px;
-		background: url("../../../images/bg-banner-flash.jpg") 50% 0 no-repeat;
-		padding-top: 10px;
-	}
-	.banner-flash .banner{
-		margin: 0 auto;
-		width: 930px; 
-		height: 365px;
-	}
-	
-
-/** FIM: ESTILO DO Banner flash **/
-  #header #topnav { color: #aaa; background: transparent; top:5px; right:5px; }
-  #header #topnav ul { margin:0; padding:0; overflow:hidden; list-style:none; list-style-type:none; }
-
-  /* (en) Using item seperator with create seperator in menu direktly (e.g. |) */
-  /* (en) Benutzen Sie Platzhalter (z.B. |), indem Sie direkt im Menü einen Seperator einfügen */
-  #header #topnav ul li { float:left; padding:0 6px; margin:0; border-left:1px solid #ccc; }
-  #header #topnav ul li.first_item { border:0; }
-  #header #topnav ul li#current a { color:#222; }
-
-  #breadcrumbs { margin-bottom:10px; padding-left:20px; border-top:1px solid #efefef; border-bottom:1px solid #efefef; }
-
-  #main { padding:10px 0; }
-
-  .footer-full{
-	float: left;
-	padding: 5px 0;
-	background: #000;
-	width: 100%;
-  }
-
-  #footer {
-    color:#fff;
-    padding: 0;
-	width: 930px;
-	margin: 0 auto;
-  }
-  #footer a{
-    color:#fff;
-    padding: 10px 0;
-	text-decoration: none;
-	font-size: 75%;
-  }
-  #footer a:link,
-  #footer a:hover,
-  #footer a:visited{
-    color: #fff;
-	text-decoration: none;
-  }
-
-  #footer .float_right{
-	margin: 0;
-	padding: 0;
-  }
+    .menu .parent{
+        background: url("../../../images/layout/icon-menu-parent.gif") 3% 7.5px no-repeat;
+    }
 
 
+    /** FIM: ESTILO DO BOAS VINDAS **/
+    /** INICIO: ESTILO DO FORMULARIO DE PEDIDOS **/
 
-  #col1 { width: 25% }
-  #col1_content { padding: 10px 10px 10px 0; }
+    div.formulario,
+    form{
+        width: 100%;
+    }
 
-  #col2 { width: 25% }
-  #col2_content { padding: 10px 20px 10px 10px; }
+    .formulario h3{
+        text-align:center;
+        text-transform: uppercase;
+        font-weight: normal;
+        font-size: 120%;
+    }
+    .formulario ul{
+        margin: 0 auto;
+        width: 150px;
+        padding: 0;
+        margin-bottom: 15px;
+    }
 
-  #col3 { margin: 0 25% }
-  #col3_content { padding:10px 20px; }
+    .formulario ul li{
+        list-style-type: none;
+        display: inline;
+        width: 49%;
+        float: left;
+        padding: 0;
+        margin: 0;
+        border-right: 1px solid #fff;
+        text-align: center;
+        line-height: 90%;
+        text-transform: uppercase;
+    }
+
+    .formulario ul li.last{
+        border-right: 0px solid #fff;
+    }
+
+    .formulario p{
+        line-height: 100%;
+    }
+
+    .formulario .timeServer{
+        margin: 10px 0 10px 0;
+        float: right;
+        text-transform: uppercase;
+    }
+
+    .formulario span{
+        text-transform: uppercase;
+    }
+
+    .formulario table.dadosCliente{
+        border: 1px solid #fff;
+        width: 100%;
+        border-collapse: separate ;
+        margin-bottom: 30px;
+    }
+    .formulario .dadosCliente th,
+    .formulario .dadosCliente td {
+        padding: 0.1em;
+    }
+
+    .formulario table#pedido{
+        width: 100%;
+        border-collapse: separate ;
+        font-family:sans-serif;
+        font-weight: normal;
+        margin-bottom: 30px;
+    }
+    .formulario table#pedido thead th {
+        background: #fff;
+        text-transform: uppercase;
+        color: #000;
+    }
+
+    .formulario table{
+        text-align: center;
+    }
 
 
-  .moduletable, .moduletable_text, .moduletable_menu,
-  .module, .module_text, .module_menu { margin-bottom:2em; }
+    .formulario tbody th{
+        background: #fff;
+    }
 
-  .leading_separator, .row_separator, .article_separator, .column_separator {
-    display:block;
-    width:100%;
-    clear:both;
-    line-height:0;
-    height:0;
-    overflow:hidden;
+    .formulario th.sub{
+        text-align: left;
+        background: #ccc;
+    }
 
-    margin:1em 0;
-    border-top:1px solid #efefef;
-  }
-  .article_separator { display:none; }
-  .row_separator { border:0; }
+    .formulario th#soma {
+        text-align: center;
+    }
 
-  .article_column {  }
-  .article_column_content { }
-  .article_column_inner { /* background:#f5f5f5; border:1px solid #e5e5e5; padding:5px; */ }
+    .formulario th#total {
+        text-align: right;
+    }
 
-  #system-message { }
-  #system-message dt { }
-  #system-message dd { }
-  #system-message dd ul { }
-  /* System standard messages */
-  #system-message dd.message ul { }
-  /* System error messages */
-  #system-message dd.error ul { }
-  /* System notice messages */
-  #system-message dd.notice ul { }
+    .formulario ol{
+        margin: 40px 0 10px 0 ;
+    }
+    .formulario ol li{
+        line-height: 100%;
+    }
+
+    .formulario input.enviarPedido{
+        width: 250px;
+        margin: 35px 230px;
+    }
+
+    .formulario .agree span{
+        margin-left: 5px;
+    }
+
+    .formulario .agree input{
+        padding: 0;
+    }
+
+    
+
+    /** FIM: ESTILO DO FORMULARIO DE PEDIDOS **/
+
+    /** INICIO: ESTILO DO Banner flash **/
+
+    .banner-flash{
+        width: 100%;
+        height: 355px;
+        background: url("../../../images/bg-banner-flash.jpg") 50% 0 no-repeat;
+        padding-top: 10px;
+    }
+    .banner-flash .banner{
+        margin: 0 auto;
+        width: 930px;
+        height: 365px;
+    }
+
+
+    /** FIM: ESTILO DO Banner flash **/
+    #header #topnav { color: #aaa; background: transparent; top:5px; right:5px; }
+    #header #topnav ul { margin:0; padding:0; overflow:hidden; list-style:none; list-style-type:none; }
+
+    /* (en) Using item seperator with create seperator in menu direktly (e.g. |) */
+    /* (en) Benutzen Sie Platzhalter (z.B. |), indem Sie direkt im Menü einen Seperator einfügen */
+    #header #topnav ul li { float:left; padding:0 6px; margin:0; border-left:1px solid #ccc; }
+    #header #topnav ul li.first_item { border:0; }
+    #header #topnav ul li#current a { color:#222; }
+
+    #breadcrumbs { margin-bottom:10px; padding-left:20px; border-top:1px solid #efefef; border-bottom:1px solid #efefef; }
+
+    #main { padding:10px 0; }
+
+    .footer-full{
+        float: left;
+        padding: 5px 0;
+        background: #000;
+        width: 100%;
+    }
+
+    #footer {
+        color:#fff;
+        padding: 0;
+        width: 930px;
+        margin: 0 auto;
+    }
+    #footer a{
+        color:#fff;
+        padding: 10px 0;
+        text-decoration: none;
+        font-size: 75%;
+    }
+    #footer a:link,
+    #footer a:hover,
+    #footer a:visited{
+        color: #fff;
+        text-decoration: none;
+    }
+
+    #footer .float_right{
+        margin: 0;
+        padding: 0;
+    }
+
+
+
+    #col1 { width: 20% }
+    #col1_content { padding: 10px 18px 10px 0; }
+
+    #col2 { width: 25% }
+    #col2_content { padding: 10px 20px 10px 10px; }
+
+    #col3 { margin: 0 25% 0 20% }
+    #col3_content { padding:10px 0px; }
+
+
+    .moduletable, .moduletable_text, .moduletable_menu,
+    .module, .module_text, .module_menu { margin-bottom:2em; }
+
+    .leading_separator, .row_separator, .article_separator, .column_separator {
+        display:block;
+        width:100%;
+        clear:both;
+        line-height:0;
+        height:0;
+        overflow:hidden;
+
+        margin:1em 0;
+        border-top:1px solid #efefef;
+    }
+    .article_separator { display:none; }
+    .row_separator { border:0; }
+
+    .article_column {  }
+    .article_column_content { }
+    .article_column_inner { /* background:#f5f5f5; border:1px solid #e5e5e5; padding:5px; */ }
+
+    #system-message { }
+    #system-message dt { }
+    #system-message dd { }
+    #system-message dd ul { }
+    /* System standard messages */
+    #system-message dd.message ul { }
+    /* System error messages */
+    #system-message dd.error ul { }
+    /* System notice messages */
+    #system-message dd.notice ul { }
 
 }
 

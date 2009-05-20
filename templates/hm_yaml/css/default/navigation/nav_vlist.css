@@ -29,13 +29,19 @@
     border-top: 1px #999 dotted;
     cursor:default;
   }
+
+   #main .menu .parent li#current a.active_link {
+    border-top: 0px #999 dotted;
+    
+  }
+  
   #main .menu li.first_item a{
       border: 0;
   }
 
   /* Level 1 */
   #main .menu li a,
-  #main .menu li span.separator { width: 90%; padding-left: 10%;  color: #fff; }
+  #main .menu li span.separator { width: 82%; padding-left: 18%;  color: #fff; }
 
   #main .menu li a:focus,
   #main .menu li a:hover,
@@ -43,7 +49,7 @@
 
   /* Level 2 */
   #main .menu li ul li a,
-  #main .menu li ul li span.separator { width: 85%; padding-left: 15%; border-top: 0px ;}
+  #main .menu li ul li span.separator { width: 75%; padding-left: 25%; border-top: 0px ;}
 
   #main .menu li ul li a { color: #fff; }
   #main .menu li ul li a:focus,
