@@ -12,10 +12,10 @@ global $VM_LANG, $vm_mainframe;
 
 ?>
 <div class="formulario">
-    
+
      <!-- Campo auto-explicativo -->
     <h3>Menu da Área de Compra</h3>
-    
+
     <ul>
         <li><a href="#">Dúvidas</a></li>
         <li class="last"><a href="#">Histórico</a></li>
@@ -71,7 +71,7 @@ global $VM_LANG, $vm_mainframe;
                     <th scope="col">Item 1</th>
                     <th scope="col">Cód. Item 1.1</th>
                     <th scope="col"> A </th>
-                    <th scope="col"> G </th>
+                    <th scope="col"><input type="text" value="0"/></th>
                     <th scope="col"> A x G </th>
                 </tr>
 
@@ -112,3 +112,4 @@ global $VM_LANG, $vm_mainframe;
 
     </form>
 </div>
+
